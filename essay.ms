@@ -42,3 +42,5 @@ och han\** kämpar att ge oligarkerna ränta på deras investeringar för att ju
 .FS
 Jag utgår ifrån att tyrannen är liksom jag en ganska tjock vit man i 70årsåldern.
 .FE
+Tänk skattelättnader och avregleringar i miljölagstiftnin.
+Varje modern tyrann har blivit köpt på sitt sätt.
