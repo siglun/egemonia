@@ -1,0 +1,157 @@
+.ig
+.dropcap When 4 darkblue R T 0 -1n
+
+Sets When as a drop capital. W is dark blue, 4 lines high, set in Times Roman. The next three text lines are indented -1n, -2n, and -3n (respectively), so that each line roughly follows the contour of the drop capital.
+..
+.
+.\" dropcap.tmac 2006-05-19
+.\"
+.\"  DROPCAP - macro set provides a reasonably comprehensive macro
+.\"            to achieve a drop capital.
+.\"
+.\"            What is different from other drop capital implementations
+.\"            is that this allows a user to add in adjustments on
+.\"            a per line basis all the way down the drop capital.
+.\"            So for example a user may pull/push text in and out of a
+.\"            capital `I' if required.
+.\"            The first argument is the first whole word. This is
+.\"            automatically chopped into a letter and the subsequent
+.\"            letters are capitalised.
+.\"
+.\"            Author Gaius Mulley
+.\"            Patches/fixes by: Keith Marshall and Werner Lemberg.
+.\"
+.\"            It was based on a number of postings from the groff@gnu.org
+.\"            mailing list and it uses the .uppercase macro written by
+.\"            Werner Lemberg.
+.\"
+.\"            From memory other postings which gave ideas to this
+.\"            macro were from: Werner Lemberg, Ted Harding,
+.\"            Ralph Corderoy (and others). Also some of its features
+.\"            were inspired by the great mom macros.
+.\"
+.\"            Please feel free to improve and modify the macro or
+.\"            simply take ideas and incorporate them elsewhere.
+.\"
+.\"  Usage:
+.
+.\"  dropcap - WORD LINES COLOUR FONT FAMILY ADJUSTMENT {ADJUSTMENT}
+.
+.\"  Example:
+.
+.\"  .dropcap When 4 darkblue R T 0 -1n
+.\"  produces a rather nice effect as we can see the
+.\"  subsequent lines indented by -1n each line down
+.\"  the drop capital. It is possible to append more
+.\"  parameters to this macro, each parameter indicates
+.\"  the relative indentation for the next line.
+.\"  Therefore it is possible to make text pull in
+.\"  and out of a drop capital I.
+.
+.\"
+.\" .uppercase in out
+.\"
+.\"   Convert the contents of string with name `in' to uppercase
+.\"   and return the result in a string with name `out'.
+.\"
+.\"   Note that this macro by default only translates the characters a-z;
+.\"   if you need other characters, define them in the strings
+.\"   `uppercase-set' and `uppercase-reset'.  Both are used with the `.tr'
+.\"   request; the former to set the mapping, the latter to reset it.
+.\"
+.de uppercase
+.  rm \\$2
+.  tr aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZåÅäÄöÖ
+.  tr \\*[uppercase-set]
+.  di uppercase-div
+.     nop \\*[\\$1]
+.     br
+.  di
+.  asciify uppercase-div
+.  chop uppercase-div
+.  tr aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzzååääöö
+.  tr \\*[uppercase-reset]
+.  ds \\$2 \\*[uppercase-div]\"
+..
+.ig
+.ds uppercase-set ä\[:A]\"
+.ds uppercase-reset ä\[:a]\"
+.ds uppercase-set å\[oA]\"
+.ds uppercase-reset å\[oa]\"
+.ds uppercase-set ö\[:O]
+.ds uppercase-reset ö\[:o]
+..
+.
+.de dc::next-line
+.  ie (\\n[dc::linesm1] > 0) \{\
+'     in +\\n[dc::adjustarray\\n[dc::linesm1]]u
+.     wh (\\n[nl]u + 1v) dc::next-line
+.     nr dc::linesm1 -1
+.  \}
+.  el \{\
+.     rr dc::lines dc::linesm1
+'     in \\n[dc::orig-indent]u
+.  \}
+.  if \\n[.trunc] \
+.     sp \\n[.trunc]u
+..
+.
+.\"
+.\"  dropcap - WORD LINES COLOUR FONT FAMILY ADJUSTMENT {ADJUSTMENT}
+.\"
+.de dropcap
+.  if r dc::lines \
+.     sp \\n[dc::lines]
+.  ds dc::word \\$1\"
+.  ds dc::letter \\$1\"
+.  substring dc::letter 0 0
+.  ds dc::originalremainder \\*[dc::word]\"
+.  length dc::word-len \\*[dc::word]
+.  if (\\n[dc::word-len] > 1) \{\
+.     substring dc::originalremainder -1 1
+.     uppercase dc::originalremainder dc::remainderofword
+.  \}
+.  nr dc::lines (\\$2)
+.  ds dc::dropcolor \\$3\"
+.  ne \\n[dc::lines]
+.  nr dc::dummy (\\w'\\*[dc::letter]')
+.  nr dc::charheight (\\n[rst])
+.  nr dc::linesm1 (\\n[dc::lines] - 1)
+.  nr dc::linesindex (\\n[dc::linesm1])
+.  ds dc::font \\$4\"
+.  ds dc::family \\$5\"
+.  nr dc::initadjust (\\$6)
+.  nr dc::adjustment (\\$7)
+.  nr dc::lastadjust (\\$7)
+.  shift 6
+.  while \\n[dc::linesindex]>0 \{\
+.     nr dc::adjustarray\\n[dc::linesindex] 0
+.     ie (\\n[.$] > 0) \{\
+.        nr dc::lastadjust (\\$1)
+.        nr dc::adjustarray\\n[dc::linesindex] (\\n[dc::lastadjust])
+.        shift
+.     \}
+.     el \
+.        nr dc::adjustarray\\n[dc::linesindex] (\\n[dc::lastadjust])
+.     nr dc::linesindex -1
+.  \}
+.  nr dc::inside-drop 1
+.  nr dc::dcht ((\\n[.v] * \\n[dc::linesm1] + \\n[dc::charheight]) \
+* (\\n[.ps]) \
+/ (\\n[rst] - \\n[rsb]))
+.  char \[dc::dcap] \\s'\\n[dc::dcht]u'\\F[\\*[dc::family]]\
+\\f[\\*[dc::font]]\\*[dc::letter]\\fP\\F[]\\s0
+.  nr dc::dummy (\\w'\[dc::dcap]')
+.  nr dc::dropheight (\\n[rst])
+.  nr dc::orig-indent (\\n[.i])
+.  nop \v'(\\n[dc::dropheight]u - \\n[dc::charheight]u)'\c
+.  nop \m[\\*[dc::dropcolor]]\[dc::dcap]\m[]\h'\\n[dc::initadjust]u'\c
+.  nop \v'(-\\n[dc::dropheight]u + \\n[dc::charheight]u)'\c
+.  nop \v'\\n[dc::linesm1]'\c
+.  wh (\\n[nl]u + 1v) dc::next-line
+.  nop \v'-\\n[dc::linesm1]'\c
+'  in +(\w'\\[dc::dcap]'u + \\n[dc::adjustment]u + \\n[dc::initadjust]u)
+.  nr dc::linesm1 -1
+.  if (\\n[dc::word-len] > 1) \
+.     nop \\*[dc::remainderofword]
+..
