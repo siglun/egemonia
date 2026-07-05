@@ -12,11 +12,11 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic  eqn-definitions.ms \
 	parameters.ms back-matter.ms
 
-SVENSKA = -m sv
+SVENSKA =  -mrefspec
 
 .ms.pdf:
-	pdfroff -U -R  -sGtep   -m s ${SVENSKA} -m pdfmark \
-	-mdecorations -m dropcap -M ./tmac   \
+	pdfroff -U -R  -sGtep   -m s  -m pdfmark \
+	-mdecorations -m dropcap -M ./tmac  ${SVENSKA} \
 	-k  ${PAPER} -Tps  parameters.ms $<  > $*.pdf
 	pdftotext $*.pdf ; wc -w $*.txt ; rm  $*.txt
 
