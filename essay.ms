@@ -9,20 +9,21 @@ men numera mastersstudent i teoretisk filosofi i Lund.
 .FE
 .section
 Det är svårt att sätta fingret på varför,
-men för många av oss framstår samtiden som så mycket mer motsägelsefull än hur det var förr.
-Detta är naturligtvis bara ett av många sätt som vi äldre har svårt att förstå samtiden.
-Platon var en av dem som etablerade tanken på hur samhällen utvecklas cykliskt,
-där stegen i statsskickens utveckling är aristokrati, timokrati, oligarki, demokrati och slutligen tyranni.
+men för många framstår samtiden som mycket mer motsägelsefull än hur brukade vara.
+Det är naturligtvis bara ett av många sätt som vi äldre har svårt att förstå samtiden.
+Platon (428\[en]348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det sämre.
+Ett samhälls statsskick utvecklas från från aristokrati till timokrati från där till oligarki, demokrati och slutligen tyranni.
 .[ (
 Plato Cooper
 .], Rep. VIII 545c-d)
 Notera att först i listan kommer aristokrati.
-Det är den gyllene tidsåldern,
-varje steg från den är ett steg från rättvisa och lag och rätt.
+Det är den gyllene tidsåldern styrd av visa män,
+varje steg från den är ett steg från rättvisa, lag och rätt.
 Efter aristokratin kommer timokratin som är de besuttnas välde över resten.
-Därefter blir det värre och värre och cykeln slutar i tyranni.
+Därefter blir det värre och värre och demokrati.
+Det sluttande planet slutar i tyranni.
 Platon hade inte samma syn på demokrati som oss i 20de och 21sta århundradena;
-för honom demokratin var ett pöbelvälde som styrdes historiens busar.
+för honom demokratin nära nog ett pöbelvälde som styrdes av samhällets busar.
 .PP
 För oss lite äldre är det lätt att falla in i tankar som \f[I]allt var bättre förr\f[P].
 Från där kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann.
@@ -35,12 +36,40 @@ pensionär från rostbältet i mellanvästern.
 Han har dålig pension för han blev arbetslös sent i livet och lyckades aldrig komma tillbaka.
 Krämporna är dyra att lindra,
 för sjukförsäkringen är usel för Bill och hans vänner.
-Men de Bill röstar på tyrannen,
+Men Bill röstar på tyrannen,
 för denne är motståndare till etablissemanget.
+\f[I]Drain the swamp\f[P].
 Tyrannen är rekryterad ur oligarkernas krets,
-och han\** kämpar att ge oligarkerna ränta på deras investeringar för att just tyrannen skall få styra.
+och han\** kämpar att ge de andra oligarkerna ränta på deras investeringar för att just han skall få vara tyrann.
 .FS
-Jag utgår ifrån att tyrannen är liksom jag en ganska tjock vit man i 70årsåldern.
+Jag utgår ifrån att tyrannen är,
+liksom jag,
+en ganska tjock vit man i 70årsåldern.
 .FE
-Tänk skattelättnader och avregleringar i miljölagstiftnin.
+Tänk skattelättnader och avregleringar i miljölagstiftning.
 Varje modern tyrann har blivit köpt på sitt sätt.
+.PP
+Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och stadskupp,
+men oftast har det på senare tid varit genom allmänna val.
+Ofta är det Bill och hans olycksbröder som valt tyrannen;
+detta är för mig en av de största paradoxerna i samtiden.
+Vilka mekanismer får olycksbrödraskapet att rösta bort sjukförsäkrigen för att tillsätta en tyrann som inte ger något annat än retorik i utbyte.
+.section
+.LP
+Det finns alldeles för många sådana sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
+En väldigt tydlig är att över 82 procent av Sveriges folk anser att klimatförändringarna är ett av samtidens stora problem.
+.[
+krutmeijer 2026
+.]
+.[
+klimat SOM 2026
+.]
+Det paradoxala är att detta faktum inte sätter några påtagliga avtryck i den politiska processen i landet.
+.PP
+En likartad observation är att i politik och media påpekas det ofta hur folks förtroende för experter och forskare är i sjunkande,
+detta trots att studier i många länder visar att folks förtroende för forskare och vetenskap är högt.
+.[
+Pearson 2026
+.]
+Studier visar är att förtroendet inte sjunker i hela populationer utan delar av dem.
+Ett exempel är att förtroendet för medicinsk och naturvetenskaplig forskning i USA sjunker bland konservativa och republikanska väljare (Pearson, \f[I]ibid\f[P]).
