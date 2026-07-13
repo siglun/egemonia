@@ -97,13 +97,17 @@ Pearson 2026
 .]
 .section
 .LP
-Antonio Gramsci (1891 \[en] 1937) had a similar paradox.
-Gramsci brukar beskrivas marxist, historiker, lingvist, filosof och journalist.
+Antonio Gramsci (1891 \[en] 1937) brukar beskrivas marxist, historiker, lingvist, filosof och journalist.
 I själva verket lämnade han universitetet i Turin med en ofärdigt utbildning.
-Under flera år var han ledare för italienska kommunistpartiet.
+Under halvtannat år på 1920-talet var han ledare för italienska kommunistpartiet.
+Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska regim.
 .[
 Martin James
 .]
+.PP
+Gramscis, och många andras, problem var:
+Varför lyckades bara proletariatet ta makten i Ryssland och inget annat land,
+när Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering.
 .section
 .LP
 Lars Gustafsson myntade uttrycket problemformuleringsprivilegiet i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
