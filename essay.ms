@@ -89,12 +89,13 @@ detta trots att studier i många länder visar att folks förtroende för forska
 .[
 Pearson 2026
 .]
-Studier visar är att förtroendet inte sjunker likformigt i hela populationer utan bara i delar av dem.
+Studier visar är att förtroendet inte sjunker likformigt i hela populationer utan ofta bara i delar av dem.
 Ett exempel är att förtroendet för medicinska och naturvetenskapliga forskare i USA sjunker,
 i synnerhet bland konservativa och republikanska väljare.
 .[
 Pearson 2026
 .]
+Jämför vår fiktive Bill ovan.
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas marxist, historiker, lingvist, filosof och journalist.
@@ -107,7 +108,10 @@ Martin James
 .PP
 Gramscis, och många andras, problem var:
 Varför lyckades bara proletariatet ta makten i Ryssland och inget annat land,
-när Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering.
+fastän Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna är värst i de utvecklade kapitalistiska.
+Standardförklaringen var att tsarryssland var den svagaste länken i den internationella kapitalismen.
+Detta kan förstås som kommunistpartiernas bortförklaring av falsifieringen av en viktig hypotes.
+När Mussolini medhjälpare satte Gramsci i isoleringscell blev detta till ett forskningsprojekt som Gramsci redovisade i \f[I]Anteckningarna i fängelset\f[P].
 .section
 .LP
 Lars Gustafsson myntade uttrycket problemformuleringsprivilegiet i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
