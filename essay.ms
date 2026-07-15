@@ -61,14 +61,16 @@ Tänk skattelättnader och avregleringar i miljölagstiftning.
 Varje modern tyrann har blivit köpt på sitt sätt.
 .PP
 Tänk också på hur det är för Anna,
-vars 
+vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
+Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
+än att slänga ut de som gömmer sig och jobbar svart.
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och stadskupp,
 men oftast har det på senare tid varit genom allmänna val.
-Ofta är det Bill och hans olycksbröder (eller systrar) som valt tyrannen;
-detta är för mig en av de största paradoxerna i samtiden.
-Vilka mekanismer får olycksbrödraskapet att rösta bort sjukförsäkringen för att tillsätta en tyrann som inte ger något annat än retorik i utbyte.
-.bp
+Ofta är det Bill och hans olycksbröder (eller systrar) som valt tyrannen.
+Det är sannolikt inte Anna.
+Detta är för mig några av de största paradoxerna i samtiden:
+Vilka mekanismer får olycksbrödraskapet att rösta bort sjukförsäkringen för att tillsätta en slags förhoppningsfull tyrannkandidat som inte ger något annat än retorik i utbyte för en lagd röstsedel.
 .section
 .LP
 Det finns alldeles för många sådana sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
@@ -109,7 +111,7 @@ Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska reg
 Martin James
 .]
 .PP
-Gramscis, och många andras vid den tiden, problem var:
+Gramscis problem, och många samtidas, var:
 Varför lyckades bara proletariatet ta makten i Ryssland och inte i andra länder?
 Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska.
 Standardförklaringen var att tsarryssland var den svagaste länken i den internationella kapitalismen.
@@ -124,9 +126,30 @@ Detta är ett svårstuderat fält på grund av att Gramsci skrev avsiktligt dunk
 .FS
 Författaren till denna text är en av dem.
 .FE
+Kära läsare,
+innan du förkastar allt jag försöker säga här för att Antonio Gramsci var kommunist,
+och att hans tankar därför borde vara förklastliga:
+Problemet han arbetade med var inte ointressant,
+och \[em] tro mig \[em] hans metoder och begreppsapparat är relevanta än idag.
 .section
 .LP
-
+I det följande kommer berätta om vad jag har grävt fram om Gramsci och hur man kan tillämpa det problem i samtiden.
+Det är främst tre arbeten jag använt är av den eminente tidige uttolkaren 
+.[
+#
+Gwyn Williams 1960
+.],
+den tydlige
+.[ 
+#
+James Martin Gramsci
+.] 
+och slutligen Antonio
+.[ 
+#
+En kollektiv intellektuell
+.] 
+själv.
 .section
 .LP
 Lars Gustafsson myntade uttrycket problemformuleringsprivilegiet i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
