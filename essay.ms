@@ -1,10 +1,10 @@
 .TL
-Egemonia
+Den sardinske puckelryggens hegemoni \[em] Egemonia 
 .AU
 Sigfrid Lundberg \[dg]
 .FS \[dg]
-Författaren är pensionerad forskare i teoretisk ekologi och mjukvaruutvecklare,
-men numera mastersstudent i teoretisk filosofi i Lund.
+Författaren är pensionerad forskare i teoretisk ekologi men sedermera mjukvaruutvecklare.
+Som pensionerad är han numera mastersstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
@@ -44,7 +44,7 @@ Men Bill röstar på tyrannen,
 för denne är motståndare till etablissemanget.
 \f[I]Drain the swamp\f[P].\**
 .FS
-Frasen har sitt ursprung i viljan att förebygga malaria redan under 1800-talet.
+Frasen har sitt ursprung i viljan att förebygga malaria under 1800-talet.
 Den används numera som en uppmaning att bekämpa korruption i USA.
 .[
 wikipedia drain swamp
@@ -59,6 +59,9 @@ en ganska tjock vit man i 70årsåldern.
 .FE
 Tänk skattelättnader och avregleringar i miljölagstiftning.
 Varje modern tyrann har blivit köpt på sitt sätt.
+.PP
+Tänk också på hur det är för Anna,
+vars 
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och stadskupp,
 men oftast har det på senare tid varit genom allmänna val.
@@ -106,12 +109,24 @@ Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska reg
 Martin James
 .]
 .PP
-Gramscis, och många andras, problem var:
-Varför lyckades bara proletariatet ta makten i Ryssland och inget annat land,
-fastän Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna är värst i de utvecklade kapitalistiska.
+Gramscis, och många andras vid den tiden, problem var:
+Varför lyckades bara proletariatet ta makten i Ryssland och inte i andra länder?
+Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska.
 Standardförklaringen var att tsarryssland var den svagaste länken i den internationella kapitalismen.
-Detta kan förstås som kommunistpartiernas bortförklaring av falsifieringen av en viktig hypotes.
-När Mussolini medhjälpare satte Gramsci i isoleringscell blev detta till ett forskningsprojekt som Gramsci redovisade i \f[I]Anteckningarna i fängelset\f[P].
+Detta är sannolikt kommunistpartiernas bortförklaring av att verkligheten falsifierat av en viktig hypotes i marxismen.
+.PP
+När Mussolini medhjälpare satte Gramsci i isoleringscell fick han tid till ett forskningsprojekt som bland annat syftade till att förklara detta problem.
+Gramsci redovisade sina resultat i sina delvis hemliga \f[I]Anteckningarna i fängelset\f[P].
+.[
+Antonio Gramsci 1967
+.]
+Detta är ett svårstuderat fält på grund av att Gramsci skrev avsiktligt dunkelt för att försvåra fängelsecensuren, och på grund av att dessa texter blivit väldigt svåra att tolka för han entusiastiska följare som inte all är tränade filologer.\**
+.FS
+Författaren till denna text är en av dem.
+.FE
+.section
+.LP
+
 .section
 .LP
 Lars Gustafsson myntade uttrycket problemformuleringsprivilegiet i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
