@@ -134,22 +134,23 @@ och att hans tankar därför borde vara förklastliga:
 Problemet han arbetade med var inte ointressant,
 och \[em] tro mig \[em] hans metoder och begreppsapparat är relevanta än idag.
 .PP
-I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci och hur man kan tillämpa det problem i samtiden.
-Det är främst tre arbeten jag använt är av den eminente tidige uttolkaren 
-.[
+I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci.
+Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige uttolkaren.
+.[ 
 #
 Gwyn Williams 1960
-.],
-den tydlige
+.]
+Den tydlige
 .[ 
 #
 James Martin Gramsci
 .] 
-och slutligen Antonio
+fyller i en del detaljer och bidrar med biografiska notiser.
+Slutligen har jag använt \f[I]En kollektiv intellektuell\f[P] som är ett urval ur  \f[I]Anteckningarna i fängelset\f[P] av Antonio
 .[ 
 #
 En kollektiv intellektuell
-.] 
+.]
 själv.
 .section
 .LP
