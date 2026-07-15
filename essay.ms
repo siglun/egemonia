@@ -126,14 +126,15 @@ Detta är ett svårstuderat fält på grund av att Gramsci skrev avsiktligt dunk
 .FS
 Författaren till denna text är en av dem.
 .FE
+.section
+.LP
 Kära läsare,
 innan du förkastar allt jag försöker säga här för att Antonio Gramsci var kommunist,
 och att hans tankar därför borde vara förklastliga:
 Problemet han arbetade med var inte ointressant,
 och \[em] tro mig \[em] hans metoder och begreppsapparat är relevanta än idag.
-.section
-.LP
-I det följande kommer berätta om vad jag har grävt fram om Gramsci och hur man kan tillämpa det problem i samtiden.
+.PP
+I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci och hur man kan tillämpa det problem i samtiden.
 Det är främst tre arbeten jag använt är av den eminente tidige uttolkaren 
 .[
 #
