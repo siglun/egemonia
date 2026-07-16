@@ -130,7 +130,7 @@ Författaren till denna text är en av dem.
 .LP
 Kära läsare,
 innan du förkastar allt jag försöker säga här för att Antonio Gramsci var kommunist,
-och att hans tankar därför borde vara förklastliga:
+och för att hans tankar därför borde vara förklastliga:
 Problemet han arbetade med var inte ointressant,
 och \[em] tro mig \[em] hans metoder och begreppsapparat är relevanta än idag.
 .PP
