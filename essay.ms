@@ -3,8 +3,9 @@ Den sardinske puckelryggens hegemoni \[em] Egemonia
 .AU
 Sigfrid Lundberg \[dg]
 .FS \[dg]
-Författaren är pensionerad forskare i teoretisk ekologi men sedermera mjukvaruutvecklare.
-Som pensionerad är han numera mastersstudent i teoretisk filosofi i Lund.
+Docent i teoretisk ekologi vid Lunds universitet.
+Sedermera mjukvaruutvecklare.
+Som pensionerad är jag numera mastersstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
