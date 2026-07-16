@@ -165,23 +165,24 @@ Den förekommer tillsammans med adjektivet
 Termen
 .I dominans
 finns också i dessa sammanhang.
-Den ser man som regel tillsammans med den styrande klassen.
+Man ser den som regel tillsammans med den \[lq]styrande klassen\[lq].
 .PP
 Genom den historiska utveklingen skapas och försvinner grupperingar som står för för såväl nöjen, indoktrinering och information.
 Gramsci kallar dem
 .I intellektuella.
-Somliga av dem kan kopplas till den styrande klassen,
+Somliga av dem kan kopplas till den bestående styrande klassen,
 de kallas för
 .I traditionella
 intellektuella.
 Det kan vara bildade människor som på olika sätt hjälper till att vidmakthålla samhället.
 Lärare, präster och kunniga personer och andra knutna till den styrande klassen.
 I dag för vi copywriters och influerare till de traditionella intellektuella.
-I civilsamhället finns andra grupperingar som är kopplade till egna intellektuella.
-Olika kyrkor har sina pråster och pastorer,
-Fackliga organisationer har sina ombudsmän.
-Alla andra subkulturer har sina förståsigpåare och influerare.
-Vi har fortfarande kvar bildningsförbund och folkhögskolor där det finns kunnigt folk som hjälper till att föra gruppens talan.
+.PP
+I civilsamhället finns andra grupperingar som är stadda i tillväxt,
+som kopplade till egna intellektuella.
+Tidigt på 1900-talet växte det fram frikyrkorkyrkor som hade pastorer,
+Fackliga organisationer som utsåg ombudsmän.
+Alla andra subkulturer växer fram och har sina förståsigpåare och influerare.
 I Gramscis terminologi kallas dessa för organiska intellektuella. 
 .TS
 center tab(;);
