@@ -125,15 +125,17 @@ Antonio Gramsci 1967
 .]
 Detta är ett svårstuderat fält på grund av att Gramsci skrev avsiktligt dunkelt för att försvåra fängelsecensuren, och på grund av att dessa texter blivit väldigt svåra att tolka för han entusiastiska följare som inte all är tränade filologer.\**
 .FS
-Författaren till denna text är en av dem.
+Jag är är en av dem.
 .FE
 .section
 .LP
 Kära läsare,
 innan du förkastar allt jag försöker säga här för att Antonio Gramsci var kommunist,
 och för att hans tankar därför borde vara förklastliga:
-Problemet han arbetade med var inte ointressant,
-och \[em] tro mig \[em] hans metoder och begreppsapparat är relevanta än idag.
+Problemet han arbetade med var inte ointressant;
+försök att betrakta det från ett 1920tals-perspektiv snarare än från 2026.
+Det viktigaste är hans metoder och hans begreppsapparat,
+de är relevanta än idag.
 .PP
 I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci.
 Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige uttolkaren.
@@ -153,6 +155,45 @@ Slutligen har jag använt \f[I]En kollektiv intellektuell\f[P] som är ett urval
 En kollektiv intellektuell
 .]
 själv.
+.PP
+När helst du ser Gramscis namn,
+är chansen stor att det dyker upp med begreppet
+.I hegemoni.
+Det är centralt i Gramscis begreppsapparat.
+Den förekommer tillsammans med adjektivet
+.I kulturell.
+Termen
+.I dominans
+finns också i dessa sammanhang.
+Den ser man som regel tillsammans med den styrande klassen.
+.PP
+Genom den historiska utveklingen skapas och försvinner grupperingar som står för för såväl nöjen, indoktrinering och information.
+Gramsci kallar dem
+.I intellektuella.
+Somliga av dem kan kopplas till den styrande klassen,
+de kallas för
+.I traditionella
+intellektuella.
+Det kan vara bildade människor som på olika sätt hjälper till att vidmakthålla samhället.
+Lärare, präster och kunniga personer och andra knutna till den styrande klassen.
+I dag för vi copywriters och influerare till de traditionella intellektuella.
+I civilsamhället finns andra grupperingar som är kopplade till egna intellektuella.
+Olika kyrkor har sina pråster och pastorer,
+Fackliga organisationer har sina ombudsmän.
+Alla andra subkulturer har sina förståsigpåare och influerare.
+Vi har fortfarande kvar bildningsförbund och folkhögskolor där det finns kunnigt folk som hjälper till att föra gruppens talan.
+I Gramscis terminologi kallas dessa för organiska intellektuella. 
+.TS
+center tab(;);
+l l l .
+;dominans;hegemoni
+vidmakthålls genom;tvång;samförstånd
+knuten till;traditionella intellektuella;T{
+.ad 0
+.hy 0
+traditionella och organiska intellektuella
+T}
+.TE
 .section
 .LP
 Lars Gustafsson myntade uttrycket problemformuleringsprivilegiet i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
