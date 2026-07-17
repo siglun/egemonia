@@ -194,6 +194,7 @@ knuten till;traditionella intellektuella;T{
 .hy 0
 traditionella och organiska intellektuella
 T}
+utvecklas mot;på väg att försvinna;på väg mot dominans
 .TE
 .section
 .LP
