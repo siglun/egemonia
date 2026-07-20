@@ -181,12 +181,13 @@ En kollektiv intellektuell
 .]
 själv.
 .PP
-När helst du ser Gramscis namn,
-är chansen stor att det dyker upp med begreppet
+Närhelst du ser Gramscis namn,
+är chansen stor att det dyker upp samman med begreppet
 .I hegemoni.
 Det är centralt i Gramscis begreppsapparat.
 Den förekommer tillsammans med adjektivet
 .I kulturell.
+Som i kulturell hegemoni.
 Termen
 .I dominans
 finns också i dessa sammanhang.
