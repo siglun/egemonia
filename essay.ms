@@ -13,9 +13,9 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 Det är svårt att sätta fingret på varför,
 men för många framstår samtiden som mycket mer motsägelsefull än den brukade vara.
 Det kan vara svårt att förstå samtiden på många sätt.
-Ett är att allt ändras med tiden.
+Ett skäl är att allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
-.I sämre.
+.I sämre .
 Ett samhälles statsskick utvecklas från aristokrati till timokrati.
 Därifrån går det utför till oligarki, demokrati och slutligen tyranni.
 .[ (
@@ -28,7 +28,7 @@ varje steg från den är ett steg från rättvisa, lag och rätt.
 Efter aristokratin kommer timokratin som är de besuttnas välde över resten.
 Därefter blir det värre och värre.
 Det sluttande planet mynnar ut i tyranni.
-Platon hade inte samma syn på demokrati som vi hade i det 20:de och har i det 21:a århundradet;
+Platon hade inte samma syn på demokrati som vi hade i det 20:e och har i det 21:a århundradet;
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av dess busar.
 .PP
@@ -87,14 +87,14 @@ krutmeijer 2026
 klimat SOM 2026
 .]
 Det paradoxala är att detta faktum inte sätter några påtagliga avtryck i den politiska processen i landet.
-Uppenbarligen är regeringen övertygad om att en klimatfientlig politik kan ge en majoritet genom de cirka 18 procent\** som
+Uppenbarligen är regeringen övertygad om att en klimatfientlig politik kan ge majoritet genom de cirka 18 procent\** som
 .I inte
 tror att klimatet är något problem vi behöver göra något åt.
 .FS
 För att vara övertydlig: $100 - 82 = 18$.
 .FE
 .PP
-En likartad observation är att i politik och media ofta påpekas att förtroendet för experter och forskare sjunker,
+En likartad observation är det att i politik och media ofta påpekas att förtroendet för experter och forskare sjunker,
 detta trots att studier i många länder visar att folks förtroende för forskare och vetenskap är högt.
 .[
 Pearson 2026
@@ -124,10 +124,10 @@ Marx Engels 1848
 publicerade sitt Manifest var i princip alla kommunister överens om vilka krafter som styr historiens gång.
 Marx och Engels teorier bygger på vad de kallar historiematerialismen,
 vilken i sin tur bygger på deras tolkning av Hegels dialektik som beskriver en utvecklings riktning.
-Den går från ett läge till dess motsats, och därifrån till en slags syntes av de båda lägena.
+Den går från ett läge till dess motsats, och därifrån till ett slags syntes av de båda lägena.
 Krafterna som driver historien framåt är tekniska innovationer som ångmaskiner, dieselmotorer och artificiell intelligens.
 Marx kallar dem produktivkrafter.
-Även utveckling och förändringar i produktionens organisation, produktionsförhållandena spelar roll.
+Även utveckling och förändringar i produktionens organisation \[em] produktionsförhållandena \[em] spelar roll.
 Tillsammans kallas dessa samhällets ekonomiska bas, de är de materiella förutsättningarna för utvecklingen.
 Den kulturella utvecklingen äger rum i överbyggnaden,
 som innehåller allt som inte har med den materiella produktionen att göra.
@@ -135,20 +135,20 @@ som innehåller allt som inte har med den materiella produktionen att göra.
 .PP
 En viktig aspekt av Marx teori är arbetarnas alienation.
 Det faktum att arbetaren inte arbetar för sig själv,
-inte äger sina redskap och bara får en del av vinsten för hans arbete gör honom eller henne alienerad.
+inte äger sina redskap och bara får en del av vinsten för sitt arbete gör honom eller henne alienerad.
 Det är denna alienation som driver fram den socialistiska revolutionen,
 och denna mycket kritiserade aspekt av historiematerialismen hävdar också att alienationen upphör i det ögonblick den privata äganderätten upphävs.
 Som alla vet nu efteråt,
 var situationen i det tidiga Sovjetunionen sådan att det inte gick så lätt.
 .PP
 Ett annat stort problem för många marxister var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
-Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska.
+Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska staterna.
 Standardförklaringen var att Tsarryssland var den svagaste länken i den internationella kapitalismen.
 Detta är sannolikt kommunistpartiernas bortförklaring av verkligheten.
 Två viktiga marxistiska teorier hade falsifierats på bara 10\[en]15 år.
 .PP
-När Mussolinis medhjälpare satt Gramsci i isoleringscell fick han tid till ett forskningsprojekt som bland annat syftade till att förklara varför det bara blev en revolution i ett enda land.
-Gramsci redovisade sina resultat i sina delvis hemliga \f[I]Fängelsetanteckningar\f[P].
+När Mussolinis medhjälpare satte Gramsci i isoleringscell fick han tid till ett forskningsprojekt som bland annat syftade till att förklara varför det bara blev en revolution i ett enda land.
+Gramsci redovisade sina resultat i sina delvis hemliga \f[I]Fängelseanteckningar\f[P].
 .[
 Antonio Gramsci 1967
 .]
@@ -189,9 +189,9 @@ själv.
 .PP
 Närhelst du ser Gramscis namn,
 är chansen stor att det dyker upp samman med begreppet
-.I hegemoni.
-Det är centralt i Gramscis begreppsapparat.
-Den förekommer tillsammans med adjektivet
+.I hegemoni
+är centralt i Gramscis begreppsapparat.
+Det förekommer tillsammans med adjektivet
 .I kulturell.
 Som i kulturell hegemoni.
 Termen
@@ -205,7 +205,7 @@ l l l .
 vidmakthålls genom;tvång;samförstånd
 .TE
 .PP
-Genom den historiska utveklingen skapas och försvinner grupperingar som står för för såväl nöjen, indoktrinering och information.
+Genom den historiska utveklingen skapas och försvinner grupperingar som står för såväl nöjen, indoktrinering och information.
 Gramsci kallar dem
 .I intellektuella.
 Somliga av dem kan kopplas till den bestående styrande klassen,
@@ -213,11 +213,11 @@ de kallas för
 .I traditionella
 intellektuella.
 Det kan vara bildade människor som på olika sätt hjälper till att vidmakthålla samhället.
-Lärare, präster och kunniga personer och andra knutna till den styrande klassen.
+Lärare, präster, kunniga personer och andra knutna till den styrande klassen.
 I dag för vi copywriters och influerare till de traditionella intellektuella.
 .PP
 I civilsamhället finns andra grupperingar som är stadda i tillväxt,
-som kopplade till egna intellektuella.
+som är kopplade till egna intellektuella.
 Tidigt på 1900-talet växte det fram frikyrkor som hade pastorer,
 Fackliga organisationer som utsåg ombudsmän.
 Alla andra subkulturer växer fram och har sina förståsigpåare.

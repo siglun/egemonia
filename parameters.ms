@@ -36,7 +36,7 @@ no-default-database
 move-punctuation
 date-as-label D.+yD.y%a*D.-y
 database ./references.text
-join-authors " and " ", " " and "
+join-authors " och " ", " " och "
 short-label "(@|Q) ' ('(D.y%a*|D%a*)')'"
 label "(@|Q) ', ' (D.y%a*|D%a*)"
 bracket-label " (" ")" "; "
