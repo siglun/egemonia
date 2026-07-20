@@ -5,7 +5,7 @@ Sigfrid Lundberg \[dg]
 .FS \[dg]
 Docent i teoretisk ekologi vid Lunds universitet.
 Sedermera mjukvaruutvecklare.
-Som pensionerad är jag numera mastersstudent i teoretisk filosofi i Lund.
+Som pensionär mastersstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
@@ -112,6 +112,28 @@ Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska reg
 Martin James
 .]
 .PP
+Från det att
+.[ 
+#
+Marx Engels 1848
+.]
+publicerade sitt Manifest var i princip alla kommunister överens om historiens gång fram till och med ryska revolutionens slut.
+Marx och Engels teorier bygger på vad de kallar historiematerialismen,
+vilken i sin tur bygger på deras tolkning av Hegels dialektik som beskriver en utvecklings riktning.
+Den går från ett läge till dess motsats, och därifrån till en slags syntes av de båda lägena.
+Motorn som driver historien framåt är produktionsförhållandenas utveckling men även förändringar i produktionens organisation påverkar.
+Tekniska innovationer som ångmaskiner, dieselmotorer och artificiell intelligens, driver på utvecklingen. 
+Detta kallas den samhällets ekonomiska bas, de materiella förutsättningarna.
+Den kulturella utvecklingen äger rum i överbyggnaden,
+som innehåller allt som inte har med den materiella produktionen att göra.
+Överbyggnaden styrs från basen, och bidrar till att vidmakthålla basen i ett komplext samspel.
+.PP
+En viktig aspekt av Marx teori är arbetarnas alienation.
+Det faktum att arbetaren inte arbetar för sig själv,
+inte äger sina redskap och bara får en del av vinsten för hans arbete gör honom eller henne alienerad.
+Det är denna alienation som driver fram den socialistiska revolutionen,
+och denna mycket kritiserade aspekt av historiematerialismen hävdar också att alienationen upphör i det ögonblick den privata äganderätten upphävs.
+.PP
 Gramscis problem, och många samtidas, var:
 Varför lyckades bara proletariatet ta makten i Ryssland och inte i andra länder?
 Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska.
@@ -148,7 +170,8 @@ Den tydlige
 #
 James Martin Gramsci
 .] 
-fyller i en del detaljer och bidrar med biografiska notiser.
+är den som förklarat de större linjerna,
+men han har också och bidragit med biografiska notiser.
 Slutligen har jag använt \f[I]En kollektiv intellektuell\f[P] som är ett urval ur  \f[I]Anteckningarna i fängelset\f[P] av Antonio
 .[ 
 #
@@ -165,7 +188,7 @@ Den förekommer tillsammans med adjektivet
 Termen
 .I dominans
 finns också i dessa sammanhang.
-Man ser den som regel tillsammans med den \[lq]styrande klassen\[lq].
+Man ser den som regel tillsammans med den \[rq]styrande klassen\[rq].
 .PP
 Genom den historiska utveklingen skapas och försvinner grupperingar som står för för såväl nöjen, indoktrinering och information.
 Gramsci kallar dem
