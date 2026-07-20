@@ -5,7 +5,7 @@ Sigfrid Lundberg \[dg]
 .FS \[dg]
 Docent i teoretisk ekologi vid Lunds universitet.
 Sedermera mjukvaruutvecklare.
-Som pensionär mastersstudent i teoretisk filosofi i Lund.
+Som pensionär masterstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
