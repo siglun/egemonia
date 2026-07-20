@@ -134,7 +134,7 @@ inte äger sina redskap och bara får en del av vinsten för hans arbete gör ho
 Det är denna alienation som driver fram den socialistiska revolutionen,
 och denna mycket kritiserade aspekt av historiematerialismen hävdar också att alienationen upphör i det ögonblick den privata äganderätten upphävs.
 Som alla vet nu efteråt,
-var situationen i det tidiga Sovjetunionen sådan att så lätt gick det inte.
+var situationen i det tidiga Sovjetunionen sådan att det inte gick så lätt.
 .PP
 Ett annat stort problem för många marxister var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
 Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska.
@@ -142,7 +142,7 @@ Standardförklaringen var att tsarryssland var den svagaste länken i den intern
 Detta är sannolikt kommunistpartiernas bortförklaring av verkligheten.
 Två viktiga marxistiska teorier hade falsifierats på bara 10\[en]15 år.
 .PP
-När Mussolini medhjälpare satte Gramsci i isoleringscell fick han tid till ett forskningsprojekt som bland annat syftade till att förklara detta problem.
+När Mussolini medhjälpare satte Gramsci i isoleringscell fick han tid till ett forskningsprojekt som bland annat syftade till att förklara varför det bara blev en revolution i ett enda land.
 Gramsci redovisade sina resultat i sina delvis hemliga \f[I]Anteckningarna i fängelset\f[P].
 .[
 Antonio Gramsci 1967
