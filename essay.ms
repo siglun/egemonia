@@ -67,11 +67,12 @@ Tänk också på hur det är för Anna,
 vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
 Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
 än att slänga ut dem som gömmer sig och jobbar svart.
+.so sympatier.ms
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och statskupp,
 men oftast har det på senare tid varit genom allmänna val.
 Ofta är det Bill och hans olycksbröder (eller systrar) som valt tyrannen.
-Det är sannolikt inte Anna.
+Det är sannolikt inte Anna (se Tabell 1).
 Dessa är för mig några av de största paradoxerna i samtiden:
 Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring för att tillsätta en förhoppningsfull tyrannaspirant,
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
