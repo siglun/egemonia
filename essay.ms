@@ -62,7 +62,8 @@ liksom jag,
 en ganska tjock vit man i 70-årsåldern.
 .FE
 Tänk skattelättnader och avregleringar i miljölagstiftning.
-Varje modern tyrann har blivit köpt på sitt sätt.
+All demokratiska ledare har bliv valda av folket,
+varje tyrann har blivit köpt på sitt eget vis.
 .PP
 Tänk också på hur det är för Anna,
 vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
@@ -227,7 +228,7 @@ center tab(;);
 l l l .
 ;makthavare;maktaspiranter
 knuten till;traditionella intellektuella;organiska intellektuella
-utvecklas mot;på väg att försvinna;på väg mot dominans
+utvecklas mot;på väg att försvinna;kan vara på väg mot dominans
 .TE
 .section
 .LP
