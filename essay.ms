@@ -62,8 +62,6 @@ liksom jag,
 en ganska tjock vit man i 70-årsåldern.
 .FE
 Tänk skattelättnader och avregleringar i miljölagstiftning.
-All demokratiska ledare har bliv valda av folket,
-varje tyrann har blivit köpt på sitt eget vis.
 .PP
 Tänk också på hur det är för Anna,
 vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
@@ -77,6 +75,8 @@ Det är sannolikt inte Anna.
 Dessa är för mig några av de största paradoxerna i samtiden:
 Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring för att tillsätta en förhoppningsfull tyrannaspirant,
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
+All demokratiska ledare har bliv valda av folket,
+varje tyrann har blivit köpt på sitt eget vis.
 .section
 .LP
 Det finns alldeles för många sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
