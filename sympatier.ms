@@ -22,4 +22,25 @@ MP;8,7 \[+-] 1,1;4,5 \[+-] 0,9;6,6 \[+-] 0,7
 SD;12,0 \[+-] 1,5;24,7 \[+-] 1,8;18,3 \[+-] 0,9
 \[:O]VR;1,1 \[+-] 0,5;3,0 \[+-] 0,8;2,0 \[+-] 0,5
 .TE
+.G1
+size = 2.5
+frame invis bot solid left solid
+coord x 1,10 y 0,35
+ticks bot off
+
+# Data layout assumed: "X-Value Height ErrorAmount"
+copy "sympatier-data.text" thru {
+   # Draw the main bar
+   line from $2,0 to $2,$3
+   line from $2,$3 to $2+1,$3
+   line from $2+1,$3 to $2+1,0
+
+   # Draw the error bar (Y +/- ErrorAmount)
+   line from $2+0.5,$3+$4 to $2+0.5,$3-$4
+   
+   # Draw horizontal caps on error bar
+   line from $2+0.3,$3+$4 to $2+0.7,$3+$4
+   line from $2+0.3,$3-$4 to $2+0.7,$3-$4
+}
+.G2
 .KE

@@ -34,7 +34,7 @@ qr.eps:
 clean:
 	rm -f *~ *.eps
 
-essay.pdf: essay.ms sympatier.ms $(OTHERS)
+essay.pdf: essay.ms sympatier.ms sympatier-data.text $(OTHERS)
 
 # Remember
 #
