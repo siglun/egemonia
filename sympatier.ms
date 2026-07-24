@@ -24,8 +24,8 @@ SD;12,0 \[+-] 1,5;24,7 \[+-] 1,8;18,3 \[+-] 0,9
 .TE
 .G1
 size = 5.0
-frame  invis ht 9 wid 11 left invis bot solid left solid
-coord x 1,20 y 0,42
+frame  invis ht 9 wid 11 left invis bot invis left solid
+coord x 0,20 y -2,42
 ticks bot off
 
 barwid=0.5
@@ -40,6 +40,7 @@ copy "sympatier-data.text" thru {
    }
    if ("$5" == "males") then {	
      bar up $2 ht $3 wid barwid fillcolor "lightblue"
+     "$1" at ($2,0-1.5)
    }
    if ("$5" == "all") then {	
         bar up $2 ht $3 wid barwid fillcolor "grey80"
