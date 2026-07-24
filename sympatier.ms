@@ -29,20 +29,27 @@ coord x 1,20 y 0,42
 ticks bot off
 
 barwid=0.5
+capwid=0.15
 
 # Data layout assumed: "X-Value Height ErrorAmount"
 copy "sympatier-data.text" thru {
    # Draw the main bar
-   line from $2,0 to $2,$3
-   line from $2,$3 to $2+barwid,$3
-   line from $2+barwid,$3 to $2+barwid,0
 
-   # Draw the error bar (Y +/- ErrorAmount)
-   line from $2+0.5*barwid,$3+$4 to $2+0.5*barwid,$3-$4
+   if ("$5" == "females") then {	
+	bar up $2 ht $3 wid barwid fillcolor "mistyrose2"
+   }
+   if ("$5" == "males") then {	
+     bar up $2 ht $3 wid barwid fillcolor "lightblue"
+   }
+   if ("$5" == "all") then {	
+        bar up $2 ht $3 wid barwid fillcolor "grey80"
+   }
+
+   line from $2,$3+$4 to $2,$3-$4
    
    # Draw horizontal caps on error bar
-   line from $2+0.3*barwid,$3+$4 to $2+0.7*barwid,$3+$4
-   line from $2+0.3*barwid,$3-$4 to $2+0.7*barwid,$3-$4
+   line from $2-capwid*barwid,$3+$4 to $2+capwid*barwid,$3+$4
+   line from $2-capwid*barwid,$3-$4 to $2+capwid*barwid,$3-$4
 }
 .G2
 .KE
