@@ -167,9 +167,7 @@ innan du förkastar allt jag försöker säga här för att Antonio Gramsci var 
 och för att hans tankar därför borde vara förkastliga:
 Problemet han arbetade med var inte ointressant;
 försök att betrakta det från ett 1920-talsperspektiv snarare än från 2026.
-Det viktigaste är hans metoder och hans begreppsapparat,
-de är relevanta än idag.
-.PP
+Hans metoder och hans begreppsapparat används fortfarande.
 I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci.
 Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige.
 .[ 
@@ -232,13 +230,34 @@ l l l .
 knuten till;traditionella intellektuella;organiska intellektuella
 utvecklas mot;på väg att försvinna;kan vara på väg mot dominans
 .TE
+.PP
+Gramsci beskriver hegemoni som en politisk situation,
+eller ett moment.
+.[
+Gwyn 1960
+.]
+Det är ett slags jämviktsläge där en uppfattning eller sätt att leva blivit dominerande.
+Gramsci är marxist.
+När något
+.I blivit
+har där skett en eller annan process av de slagen vi diskuterat ovan.
+Det har skett något, oftast i den ekonomiska basen, som driver på förändringar i hur vi uppfattar världen,
+alltså i överbyggnaden.
+Detta kan korrelera till att personer rekryteras in i en grupp, ett skrå eller ett företag.
+Vissa av dem framträder som representanter för gruppen.
+Vi har fått fram en grupp organiska intellektuella i civilsamhället.
+.PP
+Situationen är inte stabil i samma mening som ett dynamiskt system i naturvetenskapen,
+men ett \f[I]steady-state\f[P] där olika krafter motverkar varandra så att tillståndet vidmakthålls.
+Den gruppering vars intellektuella lyckas styra det offentliga samtalet får kulturell hegemoni,
+vilken brukar genomsyra stora delar av civilsamhället inklusive smak, moral, sedvänjor, religon och politik, och sist men inte minst vad som uppfattas som sunt förnuft.
 .section
 .LP
-Lars Gustafsson myntade uttrycket problemformuleringsprivilegiet i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
+Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
+.[
+Gustafsson klassens vakthund
+.]
+i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
 .[
 Westholm 2016
 .]
-Vid den aktuella tidpunkten arbetade Gustafsson vid SAF:s informationsavdelning.
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
