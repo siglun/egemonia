@@ -4,6 +4,7 @@
 .ps 10
 Tabell 1.
 Skattning av valresultatet \[rq]om det var val idag\[rq] Maj 2026.
+Se Figur 1.
 Andel i procent  \[+-] Os\[:a]kerhetstal.
 .[
 SCB 2026
@@ -22,5 +23,6 @@ MP;8,7 \[+-] 1,1;4,5 \[+-] 0,9;6,6 \[+-] 0,7
 SD;12,0 \[+-] 1,5;24,7 \[+-] 1,8;18,3 \[+-] 0,9
 \[:O]VR;1,1 \[+-] 0,5;3,0 \[+-] 0,8;2,0 \[+-] 0,5
 .TE
+
 
 .KE

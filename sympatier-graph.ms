@@ -54,6 +54,6 @@ SCB 2026
 .]
 Notera hur skillnaderna mellan k\[:o]nen g\[oa]r i olika riktning i regerings underlaget (SD, M, KD och L) och oppositionen (C, S, MP och V).
 F\[:o]r de minsta partierna \[:a]r skillnaden sannolikt inte statistiskt s\[:a]kerst\[:a]lld (felmarginalen representeras av de sm\[oa] stablarna),
-men skillnaden g\[oa]r i denna riktning f\[:o]r samtliga partier.
+men skillnaden g\[oa]r i den beskrivna riktningen f\[:o]r samtliga partier.
 .sp
 .KE
