@@ -67,17 +67,17 @@ Tänk också på hur det är för Anna,
 vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
 Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
 än att slänga ut dem som gömmer sig och jobbar svart.
+.so sympatier-graph.ms
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och statskupp,
 men oftast har det på senare tid varit genom allmänna val.
 Ofta är det Bill och hans olycksbröder (eller systrar) som valt tyrannen.
-Det är sannolikt inte Anna (se Tabell 1).
+Det är sannolikt inte Anna (se Figur 1 och Tabell 1).
 Dessa är för mig några av de största paradoxerna i samtiden:
 Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring för att tillsätta en förhoppningsfull tyrannaspirant,
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
 All demokratiska ledare har bliv valda av folket,
 varje tyrann har blivit köpt på sitt eget vis.
-.so sympatier.ms
 .section
 .LP
 Det finns alldeles för många sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
@@ -108,6 +108,7 @@ i synnerhet bland konservativa och republikanska väljare.
 Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
+.so sympatier.ms
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.

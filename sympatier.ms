@@ -22,35 +22,5 @@ MP;8,7 \[+-] 1,1;4,5 \[+-] 0,9;6,6 \[+-] 0,7
 SD;12,0 \[+-] 1,5;24,7 \[+-] 1,8;18,3 \[+-] 0,9
 \[:O]VR;1,1 \[+-] 0,5;3,0 \[+-] 0,8;2,0 \[+-] 0,5
 .TE
-.G1
-size = 5.0
-frame  invis ht 9 wid 11 left invis bot invis left solid
-coord x 0,20 y -2,42
-ticks bot off
 
-barwid=0.5
-capwid=0.15
-
-# Data layout assumed: "X-Value Height ErrorAmount"
-copy "sympatier-data.text" thru {
-   # Draw the main bar
-
-   if ("$5" == "females") then {	
-	bar up $2 ht $3 wid barwid fillcolor "mistyrose2"
-   }
-   if ("$5" == "males") then {	
-     bar up $2 ht $3 wid barwid fillcolor "lightblue"
-     "$1" at ($2,0-1.5)
-   }
-   if ("$5" == "all") then {	
-        bar up $2 ht $3 wid barwid fillcolor "grey80"
-   }
-
-   line from $2,$3+$4 to $2,$3-$4
-   
-   # Draw horizontal caps on error bar
-   line from $2-capwid*barwid,$3+$4 to $2+capwid*barwid,$3+$4
-   line from $2-capwid*barwid,$3-$4 to $2+capwid*barwid,$3-$4
-}
-.G2
 .KE
