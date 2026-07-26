@@ -64,7 +64,6 @@ liksom jag,
 en ganska tjock vit man i 70-årsåldern.
 .FE
 Tänk skattelättnader och avregleringar i miljölagstiftning.
-.PP
 Tänk också på hur det är för Anna,
 vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
 Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
@@ -93,13 +92,13 @@ klimat SOM 2026
 Det paradoxala är att detta faktum inte sätter några påtagliga avtryck i den politiska processen i landet.
 Uppenbarligen är regeringen övertygad om att en klimatfientlig politik kan ge majoritet genom de cirka 18 procent\** som
 .I inte
-tror att klimatet är något problem vi behöver göra något åt.
+tror att vi inte behöver göra något åt klimatet.
 .FS
 För att vara övertydlig: $100 - 82 = 18$.
 .FE
 .PP
-En likartad observation är det att i politik och media ofta påpekas att förtroendet för experter och forskare sjunker,
-detta trots att studier i många länder visar att folks förtroende för forskare och vetenskap är högt.
+En likartad observation är att det i politik och media ofta påpekas att förtroendet för experter och forskare sjunker,
+trots att studier i många länder visar att folks förtroende för forskare och vetenskap är högt.
 .[
 Pearson 2026
 .]
@@ -132,7 +131,7 @@ vilken i sin tur bygger på deras tolkning av Hegels dialektik som beskriver en 
 Den går från ett läge till dess motsats, och därifrån till ett slags syntes av de båda lägena.
 Krafterna som driver historien framåt är tekniska innovationer som ångmaskiner, dieselmotorer och artificiell intelligens.
 Marx kallar dem produktivkrafter.
-Även utveckling och förändringar i produktionens organisation \[em] produktionsförhållandena \[em] spelar roll.
+Även förändringar i produktionens organisation \[em] produktionsförhållandena \[em] spelar roll.
 Tillsammans kallas dessa samhällets ekonomiska bas, de är de materiella förutsättningarna för utvecklingen.
 Den kulturella utvecklingen äger rum i överbyggnaden,
 som innehåller allt som inte har med den materiella produktionen att göra.
@@ -191,7 +190,7 @@ En kollektiv intellektuell
 själv.
 .PP
 Närhelst du ser Gramscis namn,
-är chansen stor att det dyker upp samman med begreppet
+är chansen stor att det dyker upp samman med begreppet som
 .I hegemoni
 är centralt i Gramscis begreppsapparat.
 Det förekommer tillsammans med adjektivet
@@ -222,8 +221,8 @@ I dag för vi copywriters och influerare till de traditionella intellektuella.
 I civilsamhället finns andra grupperingar som är stadda i tillväxt,
 som är kopplade till egna intellektuella.
 Tidigt på 1900-talet växte det fram frikyrkor som hade pastorer,
-Fackliga organisationer som utsåg ombudsmän.
-Alla andra subkulturer växer fram och har sina förståsigpåare.
+fackliga organisationer som utsåg ombudsmän.
+Varje subkultur som växer fram och har sin förståsigpåare.
 I Gramscis terminologi kallas dessa för organiska intellektuella. 
 .TS
 center tab(;);
