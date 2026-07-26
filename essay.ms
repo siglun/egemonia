@@ -1,8 +1,8 @@
 .TL
 Den sardinske puckelryggens hegemoni \[em] Egemonia 
 .AU
-Sigfrid Lundberg \[dg]
-.FS \[dg]
+Sigfrid Lundberg*
+.FS *
 Docent i teoretisk ekologi vid Lunds universitet.
 Sedermera mjukvaruutvecklare.
 Som pensionär masterstudent i teoretisk filosofi i Lund.
@@ -10,10 +10,7 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
 .section
-Det är svårt att sätta fingret på varför,
-men för många framstår samtiden som mycket mer motsägelsefull än den brukade vara.
-Det kan vara svårt att förstå samtiden på många sätt.
-Ett skäl är att allt ändras med tiden.
+Allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
 .I sämre .
 Ett samhälles statsskick utvecklas från aristokrati till timokrati.
@@ -25,27 +22,32 @@ Plato Cooper
 Notera att först i listan kommer aristokrati.
 Det är den gyllene tidsåldern styrd av visa män,
 varje steg från den är ett steg från rättvisa, lag och rätt.
-Efter aristokratin kommer timokratin som är de besuttnas välde över resten.
+Timokratin uppkommer ur aristokratin genom att de härskarna byter sin visdom mot girighet. 
 Därefter blir det värre och värre.
 Det sluttande planet mynnar ut i tyranni.
 Platon hade inte samma syn på demokrati som vi hade i det 20:e och har i det 21:a århundradet;
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av dess busar.
 .PP
-För oss lite äldre är det lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
+Det lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
 Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann.
-En Donald Trump, Viktor Orban, Vladimir Putin eller en Bibi Netanyahu.
-Du får lägga till och dra ifrån namn från listan allt efter tycke och smak.
+Starka män som Donald Trump, Viktor Orban, Vladimir Putin eller Bibi Netanyahu.
+Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
 .PP
-Här uppkommer motsägelsen jag har haft svårt att definiera:
+För mig är det annorlunda.
+Jag tycker att den stora skillnaden mellan samtiden och den dåtid som jag genomlevt är att nu känns allt mer motsägelsefull än det brukade göra.
+.PP
+Här kommer en motsägelse jag har haft svårt att förklara:
 Tänk dig en man,
-vi kallar honom Bill,
+kalla honom Bill,
 pensionär från rostbältet i mellanvästern.
-Han har dålig pension eftersom han blev arbetslös sent i livet och lyckades aldrig komma tillbaka.
+Han har dålig pension.
+Han blev kanske arbetslös sent i livet och lyckades aldrig få något välbetalt jobb igen.
 Krämporna är dyra att lindra,
-för sjukförsäkringen är usel för Bill och hans vänner.
-Men Bill röstar på tyrannen,
-för denne är motståndare till etablissemanget.
+för sjukförsäkringen är usel för Bill och andra i hans situation.
+Bill röstar på den starke mannen,
+tyrannen,
+för han är också motståndare till etablissemanget.
 \f[I]Drain the swamp\f[P].\**
 .FS
 Frasen har sitt ursprung i viljan att förebygga malaria under 1800-talet.
@@ -76,8 +78,8 @@ Det är sannolikt inte Anna (se Figur 1 och Tabell 1).
 Dessa är för mig några av de största paradoxerna i samtiden:
 Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring för att tillsätta en förhoppningsfull tyrannaspirant,
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
-All demokratiska ledare har bliv valda av folket,
-varje tyrann har blivit köpt på sitt eget vis.
+Alla demokratiska ledare är valda av folket,
+varje tyrann är köpt på sitt eget vis.
 .section
 .LP
 Det finns alldeles för många sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
