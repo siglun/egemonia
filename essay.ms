@@ -147,8 +147,8 @@ Den hävdar också att alienationen upphör i det ögonblick den privata ägande
 Som alla vet nu efteråt,
 var situationen i det tidiga Sovjetunionen sådan att det inte gick så lätt.
 .PP
-Ett annat stort problem för många marxister var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
-Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till produktivkrafterna var värst i de utvecklade kapitalistiska staterna.
+Ett stort för marxismen var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
+Marx' teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till produktivkrafterna var värst i de utvecklade kapitalistiska staterna.
 Standardförklaringen var att Tsarryssland var den svagaste länken i den internationella kapitalismen.
 Detta är sannolikt kommunistpartiernas bortförklaring av verkligheten.
 Två viktiga marxistiska teorier hade falsifierats på bara 10 \[en] 15 år.
@@ -169,11 +169,11 @@ Jag är en av dem.
 .section
 .LP
 Kära läsare,
-innan du förkastar allt jag försöker säga här för att Antonio Gramsci var kommunist,
-och för att hans tankar därför borde vara förkastliga:
-Problemet han arbetade med var inte ointressant;
-försök att betrakta det från ett 1920-talsperspektiv snarare än från 2026.
-Hans metoder och hans begreppsapparat används fortfarande.
+innan du förkastar vad jag försöker säga för att Antonio Gramsci var kommunist,
+och att hans tankar därför borde vara förkastliga:
+Problemen han arbetade med var intressanta;
+försök att betrakta dem från ett 1920-talsperspektiv snarare än ett vårt 2020-tal.
+Hans metod och begreppsapparat används fortfarande ett sekel senare.
 I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci.
 Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige
 .[ 
@@ -193,11 +193,15 @@ Slutligen har jag använt \f[I]En kollektiv intellektuell\f[P] som är ett urval
 En kollektiv intellektuell
 .]
 själv.
+Jag har också använt en engelsk utgåva
+.[
+Gramsci Hoare 1971
+.]
 .PP
 Närhelst du ser Gramscis namn,
-är chansen stor att det dyker upp tillsammans med begreppet
+är chansen stor att det dyker upp tillsammans med substantivet
 .I hegemoni ,
-som är centralt i Gramscis begreppsapparat.
+som är centralt för Gramsci.
 Det förekommer tillsammans med adjektivet
 .I kulturell.
 Som i kulturell hegemoni.
@@ -221,11 +225,11 @@ de kallas för
 .I traditionella
 intellektuella.
 Det kan vara bildade människor som på olika sätt hjälper till att vidmakthålla samhället.
-Lärare, präster, kunniga personer och andra knutna till den styrande klassen.
-I dag för vi copywriters och influerare till de traditionella intellektuella.
+Lärare, präster, imamer, rabbiner, revisorer och andra kunniga personer knutna till den styrande klassen.
+I dag för vi copywriters och influencers till de traditionella intellektuella.
 .PP
 I civilsamhället finns andra grupperingar som är stadda i tillväxt,
-som är kopplade till egna intellektuella.
+som är kopplade till sina egna intellektuella.
 Tidigt på 1900-talet växte det fram frikyrkor som hade pastorer,
 fackliga organisationer som utsåg ombudsmän.
 Varje subkultur som växer fram och har sin förståsigpåare.
@@ -243,12 +247,11 @@ eller ett moment.
 .[
 Gwyn 1960
 .]
-Det är ett slags jämviktsläge där en uppfattning eller ett sätt att leva blivit dominerande.
-Gramsci är marxist.
-När något
+Det är ett slags jämviktsläge där vissa uppfattningar och sätt att leva har blivit dominerande.
+Gramsci är marxist och för honom är det självklart att när något har
 .I blivit
-har det skett en eller annan process av de slag vi diskuterat ovan.
-Det har skett något, oftast i den ekonomiska basen, som driver på förändringar i hur vi uppfattar världen,
+orsakas av en eller annan process av de slag vi diskuterat ovan.
+Oftast har det skett något i den ekonomiska basen, vilket driver förändringar i hur vi uppfattar världen,
 alltså i överbyggnaden.
 Detta kan korrelera med att personer rekryteras in i en grupp, ett skrå eller ett företag.
 Vissa av dem framträder som representanter för gruppen.
@@ -260,14 +263,14 @@ Snarare ett tillstånd som vidmakthålls genom att olika krafter motverkar varan
 Den gruppering vars intellektuella lyckas styra det offentliga samtalet får kulturell hegemoni,
 vilken brukar genomsyra stora delar av civilsamhället inklusive smak, moral, sedvänjor, religion och politik, och sist men inte minst vad som uppfattas som sunt förnuft.
 .PP
-Gramsci använde sina begrepp för att bygga en modell för hur samhällen kan förändras.
-Hur en revolution fungerar.
+Gramsci använde sina begrepp för att bygga en modell för hur samhällen kan förändras eller hur en revolution fungerar.
 Staten har två samhällsskikt
 .EQ
 roman "stat" = roman "politiskt samhälle" + roman "civilsamhälle"
 .EN
-Staten skyddas av två lager, delar av civilsamhällets organiska intellektuella och det politiska samhällets tvångsmekanismer som polis, rättsväsen och militär.
-Därutöver finns de traditionella intellektuella som lärare, präster, copywriters och influerare knutna till den styrande klassen.
+Staten skyddas därför av två lager,
+delar av civilsamhällets organiska intellektuella och det politiska samhällets tvångsmekanismer som polis, rättsväsen och militär.
+Därutöver finns de traditionella intellektuella (copywriters, influencers...) knutna till den styrande klassen.
 Inspirerad av Perry
 .[ 
 #
@@ -284,13 +287,20 @@ Strategi;Manöver;Position
 Tempo;Snabbhet;Utdragenhet
 .TE
 .LP
-Öst representerar här situationen i Ryssland under 1900-talets första år, fram till första världskriget,
+Öst representerar här situationen i Ryssland under 1900-talets första år, ungefär fram till första världskriget,
 väst speglar situationen i det industrialiserade Europa under samma tid.
 Den revolutionära strategin i öst var att uppsöka fienden och med snabba manövrar överta makten över såväl stat som civilsamhälle.
-Väst hade då redan ett utvecklat civilsamhälle,
+Väst hade då redan ett utvecklat civilsamhällen,
 ibland även makt i staten genom representanter i parlament (som till exempel Gramsci själv).
 Gramsci beskriver strategin med begreppet position,
 som antyder att revolutionen i väst mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att uppsöka varandra genom olika manövrar.
+.PP
+Vi kan härleda många sätt socialistiska revolutioner kan misslyckas på ur tabellen ovan.
+Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar och att revolutionen inte är slutförd ännu och att parterna har intagit sina positioner och att vi är inne i ett utdraget positionskrig.
+.PP
+Det är omöjligt att tänka sig att Gramsci inte tänkte på hur den frihet som faktiskt rådde i Italien efter enande 1861 fram till 1922.
+Han själv förlorade sin frihet 1927,
+och fängelsecensuren hindrar oss från att ta del av hans tankar om just detta.
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
