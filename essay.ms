@@ -156,6 +156,9 @@ Gramsci redovisade sina resultat i sina delvis hemliga \f[I]Fängelseanteckninga
 .[
 Antonio Gramsci 1967
 .]
+.[
+Antonio Gramsci 1971
+.]
 Detta är ett svårstuderat fält på grund av att Gramsci skrev avsiktligt dunkelt för att försvåra för fängelsecensuren,
 och på grund av att dessa texter blivit väldigt svåra att tolka för hans entusiastiska följare som inte all är tränade filologer.\**
 .FS
@@ -205,6 +208,7 @@ center tab(;);
 l l l .
 ;dominans;hegemoni
 vidmakthålls genom;tvång;samförstånd
+samhällsskikt;politiskt samhälle;civilsamhälle
 .TE
 .PP
 Genom den historiska utveklingen skapas och försvinner grupperingar som står för såväl nöjen, indoktrinering och information.
@@ -248,10 +252,43 @@ Detta kan korrelera till att personer rekryteras in i en grupp, ett skrå eller 
 Vissa av dem framträder som representanter för gruppen.
 Vi har fått fram en grupp organiska intellektuella i civilsamhället.
 .PP
-Situationen är inte stabil i samma mening som ett dynamiskt system i naturvetenskapen,
-men ett \f[I]steady-state\f[P] där olika krafter motverkar varandra så att tillståndet vidmakthålls.
+Situationen är inte jämvikt i samma mening som ett dynamiskt system i naturvetenskapen,
+där hastigheten varmed alla tillståndsvariabler ändras är noll.
+Snarare ett tillstånd som vidmakthålls genom att olika krafter motverkar varandra.
 Den gruppering vars intellektuella lyckas styra det offentliga samtalet får kulturell hegemoni,
 vilken brukar genomsyra stora delar av civilsamhället inklusive smak, moral, sedvänjor, religon och politik, och sist men inte minst vad som uppfattas som sunt förnuft.
+.PP
+Gramsci använde sina begrepp för att bygga en modell för hur samhällen kan förändras.
+Hur en revolution fungerar.
+Staten har två samhällsskikt
+.EQ
+roman "stat" = roman "politiska samhälle" + roman "civilsamhälle"
+.EN
+Staten skyddas av två lager, delar av civilsamhällets organiska intellektuella och det politiska samhällets tvångsmekanismer som polis, rättsväsen och militär.
+Därutöver har det traditionella intellektuella som lärare, präster, copywriters och influerare knutna till styrande klassen.
+Inspirerad av Perry
+.[ 
+#
+anderson antinomies gramsci
+.] 
+vill jag sammanfatta detta så här
+.TS
+center tab(;);
+l l l .
+;Öst;Väst
+Civilsamhälle;Primitivt / Geléartat;Utvecklat / Robust
+Stat;Dominerande;Balanserande
+Strategi;Manöver;Position
+Tempo;Snabbhet;Utdragenhet
+.TE
+.LP
+Öst representerar här situationen i Ryssland under 1900-talets första år under tiden fram till första världskriget,
+väst speglar situationen i det industrialiserade Europa under samma tid.
+Den revolutionära strategin i öst var att uppsöka fienden och med snabba manövrar överta makten över såväl stat som civilsamhälle.
+Väst hade då redan ett utvecklat civilsamhälle,
+ibland även makt i staten genom representanter i parlament (som till exempel Gramsci själv).
+Gramsci beskriver strategin med begreppet position,
+som antyder att revolutionen i väst mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att uppsöka varandra genom olika manövrar.
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
