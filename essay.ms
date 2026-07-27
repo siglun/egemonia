@@ -22,20 +22,21 @@ Plato Cooper
 Notera att först i listan kommer aristokrati.
 Det är den gyllene tidsåldern styrd av visa män,
 varje steg från den är ett steg från rättvisa, lag och rätt.
-Timokratin uppkommer ur aristokratin genom att de härskarna byter sin visdom mot girighet. 
+Timokratin uppkommer ur aristokratin genom att härskarna byter sin visdom mot girighet. 
 Därefter blir det värre och värre.
 Det sluttande planet mynnar ut i tyranni.
 Platon hade inte samma syn på demokrati som vi hade i det 20:e och har i det 21:a århundradet;
 demokratin innebar för Platon nära nog ett pöbelvälde.
-Ett samhälle styrt av dess busar.
+Ett samhälle styrt av sina busar.
 .PP
-Det lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
+Det är lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
 Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann.
-Starka män som Donald Trump, Viktor Orban, Vladimir Putin eller Bibi Netanyahu.
+Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu.
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
 .PP
 För mig är det annorlunda.
-Jag tycker att den stora skillnaden mellan samtiden och den dåtid som jag genomlevt är att nu känns allt mer motsägelsefull än det brukade göra.
+Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt att allt nu känns allt mer motsägelsefullt än det brukade göra.
+Det kännsi inte bättre eller sämre nu än förr.
 .PP
 Här kommer en motsägelse jag har haft svårt att förklara:
 Tänk dig en man,
@@ -57,7 +58,7 @@ wikipedia drain swamp
 .]
 .FE
 Tyrannen är rekryterad ur oligarkernas krets.
-Han\** kämpar för att ge de andra oligarkerna ränta på vad de investerat för att  göra just honom till tyrann.
+Han\** kämpar för att ge de andra oligarkerna ränta på vad de investerat för att göra just honom till tyrann.
 .FS
 Jag utgår ifrån att tyrannen är,
 liksom jag,
@@ -92,7 +93,7 @@ klimat SOM 2026
 Det paradoxala är att detta faktum inte sätter några påtagliga avtryck i den politiska processen i landet.
 Uppenbarligen är regeringen övertygad om att en klimatfientlig politik kan ge majoritet genom de cirka 18 procent\** som
 .I inte
-tror att vi inte behöver göra något åt klimatet.
+tror att vi behöver göra något åt klimatet.
 .FS
 För att vara övertydlig: $100 - 82 = 18$.
 .FE
@@ -140,16 +141,17 @@ som innehåller allt som inte har med den materiella produktionen att göra.
 En viktig aspekt av Marx teori är arbetarnas alienation.
 Det faktum att arbetaren inte arbetar för sig själv,
 inte äger sina redskap och bara får en del av vinsten för sitt arbete gör honom eller henne alienerad.
-Det är denna alienation som driver fram den socialistiska revolutionen,
-och denna mycket kritiserade aspekt av historiematerialismen hävdar också att alienationen upphör i det ögonblick den privata äganderätten upphävs.
+Det är alienationen som driver fram den socialistiska revolutionen,
+säger en mycker kritiserad teori i historiematerialismen.
+Den hävdar också att alienationen upphör i det ögonblick den privata äganderätten upphävs.
 Som alla vet nu efteråt,
 var situationen i det tidiga Sovjetunionen sådan att det inte gick så lätt.
 .PP
 Ett annat stort problem för många marxister var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
-Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till productivkrafterna var värst i de utvecklade kapitalistiska staterna.
+Marx teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till produktivkrafterna var värst i de utvecklade kapitalistiska staterna.
 Standardförklaringen var att Tsarryssland var den svagaste länken i den internationella kapitalismen.
 Detta är sannolikt kommunistpartiernas bortförklaring av verkligheten.
-Två viktiga marxistiska teorier hade falsifierats på bara 10\[en]15 år.
+Två viktiga marxistiska teorier hade falsifierats på bara 10 \[en] 15 år.
 .PP
 När Mussolinis medhjälpare satte Gramsci i isoleringscell fick han tid till ett forskningsprojekt som bland annat syftade till att förklara varför det bara blev en revolution i ett enda land.
 Gramsci redovisade sina resultat i sina delvis hemliga \f[I]Fängelseanteckningar\f[P].
