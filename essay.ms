@@ -35,8 +35,8 @@ Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
 .PP
 För mig är det annorlunda.
-Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt att allt nu känns allt mer motsägelsefullt än det brukade göra.
-Det kännsi inte bättre eller sämre nu än förr.
+Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
+Det känns inte bättre eller sämre nu än förr.
 .PP
 Här kommer en motsägelse jag har haft svårt att förklara:
 Tänk dig en man,
@@ -128,7 +128,7 @@ Marx Engels 1848
 .] 
 publicerade sitt Manifest var i princip alla kommunister överens om vilka krafter som styr historiens gång.
 Marx och Engels teorier bygger på vad de kallar historiematerialismen,
-vilken i sin tur bygger på deras tolkning av Hegels dialektik som beskriver en utvecklings riktning.
+vilken i sin tur bygger på deras tolkning av Hegels dialektik som beskriver en utvecklingsriktning.
 Den går från ett läge till dess motsats, och därifrån till ett slags syntes av de båda lägena.
 Krafterna som driver historien framåt är tekniska innovationer som ångmaskiner, dieselmotorer och artificiell intelligens.
 Marx kallar dem produktivkrafter.
@@ -142,7 +142,7 @@ En viktig aspekt av Marx teori är arbetarnas alienation.
 Det faktum att arbetaren inte arbetar för sig själv,
 inte äger sina redskap och bara får en del av vinsten för sitt arbete gör honom eller henne alienerad.
 Det är alienationen som driver fram den socialistiska revolutionen,
-säger en mycker kritiserad teori i historiematerialismen.
+säger en mycket kritiserad teori i historiematerialismen.
 Den hävdar också att alienationen upphör i det ögonblick den privata äganderätten upphävs.
 Som alla vet nu efteråt,
 var situationen i det tidiga Sovjetunionen sådan att det inte gick så lätt.
@@ -162,7 +162,7 @@ Antonio Gramsci 1967
 Antonio Gramsci 1971
 .]
 Detta är ett svårstuderat fält på grund av att Gramsci skrev avsiktligt dunkelt för att försvåra för fängelsecensuren,
-och på grund av att dessa texter blivit väldigt svåra att tolka för hans entusiastiska följare som inte all är tränade filologer.\**
+och på grund av att dessa texter blivit väldigt svåra att tolka för hans entusiastiska följare som inte alla är tränade filologer.\**
 .FS
 Jag är en av dem.
 .FE
@@ -175,11 +175,11 @@ Problemet han arbetade med var inte ointressant;
 försök att betrakta det från ett 1920-talsperspektiv snarare än från 2026.
 Hans metoder och hans begreppsapparat används fortfarande.
 I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci.
-Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige.
+Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige
 .[ 
 #
 Gwyn Williams 1960
-.]
+.].
 Den tydlige
 .[ 
 #
@@ -187,7 +187,7 @@ James Martin Gramsci
 .] 
 är den som förklarat de större linjerna,
 men han har också bidragit med biografiska notiser.
-Slutligen har jag använt \f[I]En kollektiv intellektuell\f[P] som är ett urval ur  \f[I]Anteckningarna i fängelset\f[P] av
+Slutligen har jag använt \f[I]En kollektiv intellektuell\f[P] som är ett urval ur \f[I]Anteckningarna i fängelset\f[P] av
 .[ 
 #
 En kollektiv intellektuell
@@ -195,9 +195,9 @@ En kollektiv intellektuell
 själv.
 .PP
 Närhelst du ser Gramscis namn,
-är chansen stor att det dyker upp samman med begreppet som
-.I hegemoni
-är centralt i Gramscis begreppsapparat.
+är chansen stor att det dyker upp tillsammans med begreppet
+.I hegemoni ,
+som är centralt i Gramscis begreppsapparat.
 Det förekommer tillsammans med adjektivet
 .I kulturell.
 Som i kulturell hegemoni.
@@ -213,7 +213,7 @@ vidmakthålls genom;tvång;samförstånd
 samhällsskikt;politiskt samhälle;civilsamhälle
 .TE
 .PP
-Genom den historiska utveklingen skapas och försvinner grupperingar som står för såväl nöjen, indoktrinering och information.
+Genom den historiska utvecklingen skapas och försvinner grupperingar som står för såväl nöjen som indoktrinering och information.
 Gramsci kallar dem
 .I intellektuella.
 Somliga av dem kan kopplas till den bestående styrande klassen,
@@ -234,7 +234,7 @@ I Gramscis terminologi kallas dessa för organiska intellektuella.
 center tab(;);
 l l l .
 ;makthavare;maktaspiranter
-knuten till;traditionella intellektuella;organiska intellektuella
+knutna till;traditionella intellektuella;organiska intellektuella
 utvecklas mot;på väg att försvinna;kan vara på väg mot dominans
 .TE
 .PP
@@ -243,14 +243,14 @@ eller ett moment.
 .[
 Gwyn 1960
 .]
-Det är ett slags jämviktsläge där en uppfattning eller sätt att leva blivit dominerande.
+Det är ett slags jämviktsläge där en uppfattning eller ett sätt att leva blivit dominerande.
 Gramsci är marxist.
 När något
 .I blivit
-har där skett en eller annan process av de slagen vi diskuterat ovan.
+har det skett en eller annan process av de slag vi diskuterat ovan.
 Det har skett något, oftast i den ekonomiska basen, som driver på förändringar i hur vi uppfattar världen,
 alltså i överbyggnaden.
-Detta kan korrelera till att personer rekryteras in i en grupp, ett skrå eller ett företag.
+Detta kan korrelera med att personer rekryteras in i en grupp, ett skrå eller ett företag.
 Vissa av dem framträder som representanter för gruppen.
 Vi har fått fram en grupp organiska intellektuella i civilsamhället.
 .PP
@@ -258,16 +258,16 @@ Situationen är inte jämvikt i samma mening som ett dynamiskt system i naturvet
 där hastigheten varmed alla tillståndsvariabler ändras är noll.
 Snarare ett tillstånd som vidmakthålls genom att olika krafter motverkar varandra.
 Den gruppering vars intellektuella lyckas styra det offentliga samtalet får kulturell hegemoni,
-vilken brukar genomsyra stora delar av civilsamhället inklusive smak, moral, sedvänjor, religon och politik, och sist men inte minst vad som uppfattas som sunt förnuft.
+vilken brukar genomsyra stora delar av civilsamhället inklusive smak, moral, sedvänjor, religion och politik, och sist men inte minst vad som uppfattas som sunt förnuft.
 .PP
 Gramsci använde sina begrepp för att bygga en modell för hur samhällen kan förändras.
 Hur en revolution fungerar.
 Staten har två samhällsskikt
 .EQ
-roman "stat" = roman "politiska samhälle" + roman "civilsamhälle"
+roman "stat" = roman "politiskt samhälle" + roman "civilsamhälle"
 .EN
 Staten skyddas av två lager, delar av civilsamhällets organiska intellektuella och det politiska samhällets tvångsmekanismer som polis, rättsväsen och militär.
-Därutöver har det traditionella intellektuella som lärare, präster, copywriters och influerare knutna till styrande klassen.
+Därutöver finns de traditionella intellektuella som lärare, präster, copywriters och influerare knutna till den styrande klassen.
 Inspirerad av Perry
 .[ 
 #
@@ -284,7 +284,7 @@ Strategi;Manöver;Position
 Tempo;Snabbhet;Utdragenhet
 .TE
 .LP
-Öst representerar här situationen i Ryssland under 1900-talets första år under tiden fram till första världskriget,
+Öst representerar här situationen i Ryssland under 1900-talets första år, fram till första världskriget,
 väst speglar situationen i det industrialiserade Europa under samma tid.
 Den revolutionära strategin i öst var att uppsöka fienden och med snabba manövrar överta makten över såväl stat som civilsamhälle.
 Väst hade då redan ett utvecklat civilsamhälle,
