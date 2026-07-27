@@ -290,17 +290,16 @@ Tempo;Snabbhet;Utdragenhet
 Öst representerar här situationen i Ryssland under 1900-talets första år, ungefär fram till första världskriget,
 väst speglar situationen i det industrialiserade Europa under samma tid.
 Den revolutionära strategin i öst var att uppsöka fienden och med snabba manövrar överta makten över såväl stat som civilsamhälle.
-Väst hade då redan ett utvecklat civilsamhällen,
-ibland även makt i staten genom representanter i parlament (som till exempel Gramsci själv).
-Gramsci beskriver strategin med begreppet position,
-som antyder att revolutionen i väst mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att uppsöka varandra genom olika manövrar.
+Väst hade då redan utvecklade civilsamhällen.
+Arbetarklassen deltog i staten genom valda representanter i parlamentet, Gramsci själv var ledamot av deputeradekammaren.
+.PP
+Gramsci beskriver strategin i väst med begreppet position,
+som antyder att revolutionen i där mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att de uppsöker varandra genom olika manövrar.
 .PP
 Vi kan härleda många sätt socialistiska revolutioner kan misslyckas på ur tabellen ovan.
-Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar och att revolutionen inte är slutförd ännu och att parterna har intagit sina positioner och att vi är inne i ett utdraget positionskrig.
-.PP
-Det är omöjligt att tänka sig att Gramsci inte tänkte på hur den frihet som faktiskt rådde i Italien efter enande 1861 fram till 1922.
-Han själv förlorade sin frihet 1927,
-och fängelsecensuren hindrar oss från att ta del av hans tankar om just detta.
+Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar.
+Det kan också vara så att revolutionen helt enkelt pågår.
+Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
