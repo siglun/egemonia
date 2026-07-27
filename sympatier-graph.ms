@@ -18,23 +18,23 @@ capwid=0.15
 #     8  0.9 "Checksum"
 #     DONE
 
-bar 12,39, 15, 38  fillcolor "mistyrose2"; "Kvinnor" ljust at (15.5,38.5)
+bar 12,39, 15, 38  fillcolor "mistyrose1"; "Kvinnor" ljust at (15.5,38.5)
 bar 12,37, 15, 36  fillcolor "lightblue"; "M\[:a]n" ljust at (15.5,36.5)
-bar 12,35, 15, 34  fillcolor "grey80"; "Alla" ljust at (15.5,34.5)
+bar 12,35, 15, 34  fillcolor "grey60"; "Alla" ljust at (15.5,34.5)
 
 # Data layout assumed: "X-Value Height ErrorAmount"
 copy "sympatier-data.text" thru {
    # Draw the main bar
 
    if ("$5" == "females") then {	
-	bar up $2 ht $3 wid barwid fillcolor "mistyrose2"
+	bar up $2 ht $3 wid barwid fillcolor "mistyrose1"
    }
    if ("$5" == "males") then {	
      bar up $2 ht $3 wid barwid fillcolor "lightblue"
      "$1" at ($2,0-1.5)
    }
    if ("$5" == "all") then {	
-        bar up $2 ht $3 wid barwid fillcolor "grey80"
+        bar up $2 ht $3 wid barwid fillcolor "grey60"
    }
 
    line from $2,$3+$4 to $2,$3-$4
