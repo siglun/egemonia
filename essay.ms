@@ -280,11 +280,11 @@ vill jag sammanfatta detta så här
 .TS
 center tab(;);
 l l l .
-;Öst;Väst
-Civilsamhälle;Primitivt / Geléartat;Utvecklat / Robust
-Stat;Dominerande;Balanserande
-Strategi;Manöver;Position
-Tempo;Snabbhet;Utdragenhet
+;öst;väst
+civilsamhälle;primitivt / geléartat;utvecklat / robust
+stat;dominerande;balanserande
+strategi;manöver;position
+tempo;snabbhet;utdragenhet
 .TE
 .LP
 Öst representerar här situationen i Ryssland under 1900-talets första år, ungefär fram till första världskriget,
@@ -300,6 +300,42 @@ Vi kan härleda många sätt socialistiska revolutioner kan misslyckas på ur ta
 Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar.
 Det kan också vara så att revolutionen helt enkelt pågår.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
+Förmodligen kan ett sådant tillstånd vidmakthållas länge om en gynnsam saltsjöbadsanda genomsyrar civilsamhället.
+.PP
+Det är ett annat problem som sannolikt är mer akut för Gramsci än varför revolutionerna i väst misslyckades.
+Mussolini tog makten 1922 och för jämnt ett sekel sedan arresterades Gramsci, och sedan ägnade han sig åt sitt projekt så länge han orkade innan han avled i fängelset.
+Varför lyckas fascismen?
+.PP
+Gramsci tänker sig ett tillstånd liknande positionskriget vi diskuterade ovan.
+Vi har en progressiv kraft $A$ och en regressiv $B$ i balans så tillvida att ingen av dem kan ta makten.
+I det läget kommer en tredje aktör $C$ som representerar vad Gramsci kallar
+.I Caesarismen .
+Den är ett uttryck för den italienska fascismens önskan att återupprätta det gamla Rom.
+Gramsci kan naturligtvis inte nämna sina motståndare vid namn,
+därför diskuterar han Julius Caesar, Napoleon Bonaparte (både I och III), Otto von Bismarck och Oliver Cromwell för att bara nämna några.
+Vi har på scenen alltså:
+.TS
+center tab(;);
+l l l l .
+kraft;A;B;C
+inriktning;progressiv;regressiv;fascistisk
+.TE
+Så här beskriver Gramsci vad som händer:
+.QP
+.vs 12
+.ps 10
+Man kan säga att caesarismen uttrycker en situation,
+där de kämpande krafterna på ett katastrofalt sätt uppväger varandra,
+dvs de väger så jämnt att den fortsatta striden inte kan sluta annat än med ömsesidig förintelse.
+När den progressiva kraften $A$ kämpar mot den regressiva kraften $B$ kan det inte bara inträffa att $A$ besegrar $B$ eller att $B$ besegrar $A$,
+det kan också inträffa att varken $A$ eller $B$ vinner utan bara får varandra att förblöda och att en tredje kraft $C$ ingriper utifrån och lägger under sig vad som återstår av $A$ och $B$.
+I Italien var det just detta som inträffade efter il Magnificos\** död.
+.[
+En kollektiv intellektuell
+.]
+.FS
+Lorenzo de' Medici (känd som Lorenzo il Magnifico), 1449 \[en] 1492.
+.FE
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
