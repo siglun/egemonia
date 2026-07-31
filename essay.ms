@@ -302,7 +302,7 @@ Det kan också vara så att revolutionen helt enkelt pågår.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
 Förmodligen kan ett sådant tillstånd vidmakthållas länge om en gynnsam saltsjöbadsanda genomsyrar civilsamhället.
 .PP
-Det är ett annat problem som sannolikt är mer akut för Gramsci än varför revolutionerna i väst misslyckades.
+Det är ett annat problem som sannolikt är mer akut för Gramsci personligen än varför revolutionerna i väst misslyckades (trots att han var gift med en ryska och att han levt något år i Moskva).
 Mussolini tog makten 1922 och för jämnt ett sekel sedan arresterades Gramsci, och sedan ägnade han sig åt sitt projekt så länge han orkade innan han avled i fängelset.
 Varför lyckas fascismen?
 .PP
@@ -330,12 +330,14 @@ dvs de väger så jämnt att den fortsatta striden inte kan sluta annat än med 
 När den progressiva kraften $A$ kämpar mot den regressiva kraften $B$ kan det inte bara inträffa att $A$ besegrar $B$ eller att $B$ besegrar $A$,
 det kan också inträffa att varken $A$ eller $B$ vinner utan bara får varandra att förblöda och att en tredje kraft $C$ ingriper utifrån och lägger under sig vad som återstår av $A$ och $B$.
 I Italien var det just detta som inträffade efter il Magnificos\** död.
-.[
+.[ (
 En kollektiv intellektuell
-.]
+.], s. 256)
 .FS
 Lorenzo de' Medici (känd som Lorenzo il Magnifico), 1449 \[en] 1492.
 .FE
+.LP
+
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
