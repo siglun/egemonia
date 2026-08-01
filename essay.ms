@@ -336,8 +336,16 @@ En kollektiv intellektuell
 .FS
 Lorenzo de' Medici (känd som Lorenzo il Magnifico), 1449 \[en] 1492.
 .FE
+.section
 .LP
-
+Blabla blabla blabla blabla blabla.
+.[
+stuart hall 1979
+.]
+Blabla blabla blabla blabla blabla.
+.[
+andy knott 2020
+.]
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
@@ -347,4 +355,9 @@ Gustafsson klassens vakthund
 i en rapport 1979 till Svenska Arbetsgivareföreningens (SAF) kongress 1980.
 .[
 Westholm 2016
+.]
+Blabla blabla blabla blabla blabla.
+Blabla blabla blabla blabla blabla.
+.[
+daniel rueda 2021
 .]
