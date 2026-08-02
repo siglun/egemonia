@@ -372,6 +372,7 @@ Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
 .[
 alfredson danielsson 1976
 .]
+Ett smakprov till
 .ID
 .vs 12
 .ps 10
@@ -380,7 +381,9 @@ alla tåg som går mot lyckans land på första maj
 \[em] svara på en fråga från en vän som tappat tron:
 när är dom framme vid sin slutstation?
 .DE
-I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare.
+Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
+I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare,
+och behålla makten ett drygt decennium till 1990.
 Stuart Hall skrev sin med rätta berömda \[rq]The great moving right show\[rq].
 .[
 stuart hall 1979
