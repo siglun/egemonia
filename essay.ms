@@ -328,14 +328,15 @@ Vi har en progressiv kraft $A$ och en regressiv $B$ i balans så tillvida att in
 I det läget kommer en tredje aktör $C$ som representerar vad Gramsci kallar
 .I Caesarismen .
 Den är ett uttryck för den italienska fascismens önskan att återupprätta det gamla Rom.
-Gramsci kan naturligtvis inte nämna sina motståndare vid namn,
+Gramsci kan naturligtvis inte nämna sina samtida motståndare vid namn.
+Han kan inte nämna Benito Mussolini,
 därför diskuterar han Julius Caesar, Napoleon Bonaparte (både I och III), Otto von Bismarck och Oliver Cromwell för att bara nämna några.
 Vi har på scenen alltså:
 .TS
 center tab(;);
 l l l l .
 kraft;A;B;C
-inriktning;progressiv;regressiv;fascistisk
+inriktning;progressiv;regressiv;fascistisk/progressiv/regressiv
 .TE
 Så här beskriver Gramsci vad som händer:
 .QP
@@ -353,21 +354,58 @@ En kollektiv intellektuell
 .FS
 Lorenzo de' Medici (känd som Lorenzo il Magnifico), 1449 \[en] 1492.
 .FE
+.LP
+Den caesaristiska kraften tar sig alltså in från sidan och roffar åt sig makten.
+Denna kraft C kan ha olika inriktning,
+beroende på ifall den ger sitt stöd åt A eller B.
+Gramsci beskriver Caesar och Napoleon I som progressiva,
+medan Napoleon III och Bismarck är regressiva.
+.[ (
+En kollektiv intellektuell
+.], s. 256)
+Jag antar att den i vilket fall kan vara mer eller mindre fascistisk.
 .section
 .LP
-Blabla blabla blabla blabla blabla.
+Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
+Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
+\
+.[
+alfredson danielsson 1976
+.]
+.ID
+.vs 12
+.ps 10
+Svara, du med röda stjärnan på din vårkavaj:
+alla tåg som går mot lyckans land på första maj
+\[em] svara på en fråga från en vän som tappat tron:
+när är dom framme vid sin slutstation?
+.DE
+I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare.
+Stuart Hall skrev sin med rätta berömda \[rq]The great moving right show\[rq].
 .[
 stuart hall 1979
 .]
+Detta var en tid med mycket rörelse:
+1981 tillträdde Ronald Reagan som USA:s 40:de president.
+1973 begick Salvador Allende självmord efter militärkuppen i Chile.
+Sist men inte minst så föll Saigon den 30 april 1975 och med det tog Vietnamkriget slut.
+Den minneskunnige erinrar sig säkert fler händelser.
+Som exempelvis folkomröstningen om kärnkraftens framtid i Sverige 1980.
 .PP
-Blabla blabla blabla blabla blabla.
-.QP
-
+Ett nästan jämnt sekel efter Gramscis arrestering är det mellanårsval i USA och alla undrar hur det skall gå.
+Karl Marx skrev att historien upprepar sig två gånger,
+först som tragedi och sedan som fars.
+Det är lätt att se detta som en djup sanning när man betraktar Donald Trump, som är en riktig pajas.
+Tyvärr sätter sig mitt skratt i vrångstrupen,
+och Andy
+.[ 
+#
+Andy Knott 2020
+.] 
+kände sig föranledd att skriva \[rq]The new moving right show\[rq].
 .PP
-Blabla blabla blabla blabla blabla.
-.[
-andy knott 2020
-.]
+Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt som rimmar på Gramscis egen,
+på så vis att de utgår från olika avsnitt i fängelseanteckningarna.
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
