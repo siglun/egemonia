@@ -407,8 +407,29 @@ Andy Knott 2020
 .] 
 kände sig föranledd att skriva \[rq]The new moving right show\[rq].
 .PP
-Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt som rimmar på Gramscis egen,
-på så vis att de utgår från olika avsnitt i fängelseanteckningarna.
+Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt som rimmar på Gramscis egen.
+.PP
+Särskilt intressant är Halls diskussion av Labour och Socialdemokratin.
+En förutsättning i resonemanget är att när Labour (Socialdemokratin) har regeringsmakten måste arbetarklassen förflyttaskjuta sina sympatier
+.EQ
+roman parti -> roman regering
+.EN
+Det är en farlig operation för arbetarklassen.
+När Torypartiet (de konservativa) vi ta makten kämpar de för att motsvarande överföringar av sympatier
+.EQ
+lpile {
+roman klassen -> roman nationen
+above
+roman fackföreningen -> roman folket
+}
+.EN
+Se
+.[ 
+#
+stuart hall 1979
+.]
+för detaljer.
+Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföringsrörelse.
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
