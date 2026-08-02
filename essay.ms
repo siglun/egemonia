@@ -9,6 +9,23 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
+.RD
+
+.vs 12
+.ps 10
+Vi som satts att leva i besvikelsens epok
+– ja, vad gör vi nu? Vad ska vi tala på för språk?
+Ett sätt är att, även om det blåser lite kallt,
+tro på det vi trodde på – trots allt!\**
+.FS
+Kuplett av.
+.[ 
+#
+Danielsson Alfredson 1976
+.]
+Originaltext och musik: Gloria Sklerov & Henry Lloyd (\[rq]Where Did They Go?\[rq]). 
+.FE
+.DE
 .section
 Allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
@@ -25,7 +42,7 @@ varje steg från den är ett steg från rättvisa, lag och rätt.
 Timokratin uppkommer ur aristokratin genom att härskarna byter sin visdom mot girighet. 
 Därefter blir det värre och värre.
 Det sluttande planet mynnar ut i tyranni.
-Platon hade inte samma syn på demokrati som vi hade i det 20:e och har i det 21:a århundradet;
+Platon hade inte samma syn på demokrati som vi hade i det 20:e och nog faktiskt fortfarande har i det 21:a århundradet;
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av sina busar.
 .PP
@@ -73,8 +90,8 @@ Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och statskupp,
 men oftast har det på senare tid varit genom allmänna val.
-Ofta är det Bill och hans olycksbröder (eller systrar) som valt tyrannen.
-Det är sannolikt inte Anna (se Figur 1 och Tabell 1).
+Ofta är det Bill och hans olycksbröder som valt tyrannen.
+Det är sannolikt inte Anna (se Figur 1).
 Dessa är för mig några av de största paradoxerna i samtiden:
 Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring för att tillsätta en förhoppningsfull tyrannaspirant,
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
@@ -342,6 +359,11 @@ Blabla blabla blabla blabla blabla.
 .[
 stuart hall 1979
 .]
+.PP
+Blabla blabla blabla blabla blabla.
+.QP
+
+.PP
 Blabla blabla blabla blabla blabla.
 .[
 andy knott 2020
