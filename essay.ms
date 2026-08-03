@@ -57,7 +57,7 @@ eller som Antonio
 #
 Gramsci 1971
 .]
-skulle sagt: en Caesar.
+skulle ha sagt: en Caesar.
 Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu.
 Eller Julius Caesar.
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
@@ -155,7 +155,7 @@ Från det att
 Marx Engels 1848
 .] 
 publicerade sitt Manifest var i princip alla kommunister överens om vilka krafter som styr historiens gång.
-Marx och Engels teorier bygger på vad de kallar historiematerialismen,
+Marx' och Engels' teorier bygger på vad de kallar historiematerialismen,
 vilken i sin tur bygger på deras tolkning av Hegels dialektik som beskriver en utvecklingsriktning.
 Den går från ett läge till dess motsats, och därifrån till ett slags syntes av de båda lägena.
 Krafterna som driver historien framåt är tekniska innovationer som ångmaskiner, dieselmotorer och artificiell intelligens.
@@ -168,7 +168,7 @@ som innehåller allt som inte har med den materiella produktionen att göra.
 .PP
 I \f[I]Kommunistiska manifestet\f[P]s värld genomlöper mänskligheten helt andra stadier än i Platons
 .EQ
-roman slavsamhäller -> roman feodalism -> roman kapitalism -> roman socialism -> roman kommunism
+roman slavsamhälle -> roman feodalism -> roman kapitalism -> roman socialism -> roman kommunism
 .EN
 .PP
 En viktig aspekt av Marx teori är arbetarnas alienation.
@@ -180,8 +180,8 @@ Den hävdar också att alienationen upphör i det ögonblick den privata ägande
 Som alla vet nu efteråt,
 var situationen i det tidiga Sovjetunionen sådan att det inte gick så lätt.
 .PP
-Ett stort för marxismen var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
-Marx' teorier förutsade att den ekonomiska utvecklingen med arbetarklassens alienering i förhållande till produktivkrafterna var värst i de utvecklade kapitalistiska staterna.
+Ett stort problem för marxismen var frågan varför proletariatet bara lyckades ta makten i Ryssland och inte i andra länder.
+Marx' teorier förutsade att där den ekonomiska utvecklingen nått längst, där borde arbetarklassens alienering vara värst bland de kapitalistiska staterna.
 Standardförklaringen var att Tsarryssland var den svagaste länken i den internationella kapitalismen.
 Detta är sannolikt kommunistpartiernas bortförklaring av verkligheten.
 Två viktiga marxistiska teorier hade falsifierats på bara 10 \[en] 15 år.
@@ -205,7 +205,7 @@ Kära läsare,
 innan du förkastar vad jag försöker säga för att Antonio Gramsci var kommunist,
 och att hans tankar därför borde vara förkastliga:
 Problemen han arbetade med var intressanta;
-försök att betrakta dem från ett 1920-talsperspektiv snarare än ett vårt 2020-tal.
+försök att betrakta dem från ett 1920-talsperspektiv snarare än ett 2020-talsperspektiv.
 Hans metod och begreppsapparat används fortfarande ett sekel senare.
 I det följande kommer jag att berätta om vad jag har grävt fram om Gramsci.
 Mina viktigaste källor är en tolkning av begreppet hegemoni av den tidige
@@ -265,7 +265,7 @@ I civilsamhället finns andra grupperingar som är stadda i tillväxt,
 som är kopplade till sina egna intellektuella.
 Tidigt på 1900-talet växte det fram frikyrkor som hade pastorer,
 fackliga organisationer som utsåg ombudsmän.
-Varje subkultur som växer fram och har sin förståsigpåare.
+Varje subkultur som växer fram har sina förståsigpåare.
 I Gramscis terminologi kallas dessa för organiska intellektuella. 
 .TS
 center tab(;);
@@ -283,7 +283,7 @@ Gwyn 1960
 Det är ett slags jämviktsläge där vissa uppfattningar och sätt att leva har blivit dominerande.
 Gramsci är marxist och för honom är det självklart att när något har
 .I blivit
-orsakas av en eller annan process av de slag vi diskuterat ovan.
+så orsakas det av en eller annan process av de slag vi diskuterat ovan.
 Oftast har det skett något i den ekonomiska basen, vilket driver förändringar i hur vi uppfattar världen,
 alltså i överbyggnaden.
 Detta kan korrelera med att personer rekryteras in i en grupp, ett skrå eller ett företag.
@@ -327,9 +327,9 @@ Väst hade då redan utvecklade civilsamhällen.
 Arbetarklassen deltog i staten genom valda representanter i parlamentet, Gramsci själv var ledamot av deputeradekammaren.
 .PP
 Gramsci beskriver strategin i väst med begreppet position,
-som antyder att revolutionen i där mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att de uppsöker varandra genom olika manövrar.
+som antyder att revolutionen där mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att de uppsöker varandra genom olika manövrar.
 .PP
-Vi kan härleda många sätt socialistiska revolutioner kan misslyckas på ur tabellen ovan.
+Ur tabellen ovan kan vi härleda många sätt socialistiska revolutioner kan misslyckas på.
 Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar.
 Det kan också vara så att revolutionen helt enkelt pågår.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
@@ -372,8 +372,8 @@ Lorenzo de' Medici (känd som Lorenzo il Magnifico), 1449 \[en] 1492.
 .FE
 .LP
 Den caesaristiska kraften tar sig alltså in från sidan och roffar åt sig makten.
-Denna kraft C kan ha olika inriktning,
-beroende på ifall den ger sitt stöd åt A eller B.
+Denna kraft $C$ kan ha olika inriktning,
+beroende på ifall den ger sitt stöd åt $A$ eller $B$.
 Gramsci beskriver Caesar och Napoleon I som progressiva,
 medan Napoleon III och Bismarck är regressiva.
 .[ (
@@ -406,7 +406,7 @@ stuart hall 1979
 .]
 Detta var en tid med mycket rörelse:
 1981 tillträdde Ronald Reagan som USA:s 40:de president.
-1973 begick Salvador Allende självmord efter militärkuppen i Chile.
+11 september 1973 begick Salvador Allende självmord under militärkuppen i Chile.
 Sist men inte minst så föll Saigon den 30 april 1975 och med det tog Vietnamkriget slut.
 Den minneskunnige erinrar sig säkert fler händelser.
 Som exempelvis folkomröstningen om kärnkraftens framtid i Sverige 1980.
@@ -426,12 +426,12 @@ kände sig föranledd att skriva \[rq]The new moving right show\[rq].
 Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt som rimmar på Gramscis egen.
 .PP
 Särskilt intressant är Halls diskussion av Labour och Socialdemokratin.
-En förutsättning i resonemanget är att när Labour (Socialdemokratin) har regeringsmakten måste arbetarklassen förflyttaskjuta sina sympatier
+En förutsättning i resonemanget är att när Labour (Socialdemokratin) har regeringsmakten måste arbetarklassen förskjuta sina sympatier
 .EQ
 roman parti -> roman regering
 .EN
 Det är en farlig operation för arbetarklassen.
-När Torypartiet (de konservativa) vi ta makten kämpar de för att motsvarande överföringar av sympatier
+När Torypartiet (de konservativa) vill ta makten kämpar de för att motsvarande överföringar av sympatier
 .EQ
 lpile {
 roman klassen -> roman nationen
@@ -445,7 +445,7 @@ Se
 stuart hall 1979
 .]
 för detaljer.
-Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföringsrörelse.
+Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
 .section
 .LP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
