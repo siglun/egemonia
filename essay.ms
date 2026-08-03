@@ -13,10 +13,10 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 
 .vs 12
 .ps 10
-Vi som satts att leva i besvikelsens epok
-– ja, vad gör vi nu? Vad ska vi tala på för språk?
-Ett sätt är att, även om det blåser lite kallt,
-tro på det vi trodde på – trots allt!\**
+Svara, du med röda stjärnan på din vårkavaj:
+alla tåg som går mot lyckans land på första maj
+\[em] svara på en fråga från en vän som tappat tron:
+när är dom framme vid sin slutstation?\**
 .FS
 Kuplett av.
 .[ 
@@ -35,6 +35,10 @@ Därifrån går det utför till oligarki, demokrati och slutligen tyranni.
 .[ (
 Plato Cooper
 .], Rep. VIII 545c-d)
+Vi kan åskådliggöra den processen
+.EQ
+roman aristokrati -> roman timokrati -> roman oligarki -> roman demokrati -> roman  tyranni
+.EN
 .PP
 Notera att först i listan kommer aristokrati.
 Det är den gyllene tidsåldern styrd av visa män,
@@ -47,13 +51,21 @@ demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av sina busar.
 .PP
 Det är lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
-Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann.
+Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann,
+eller som Antonio
+.[ 
+#
+Gramsci 1971
+.]
+skulle sagt: en Caesar.
 Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu.
+Eller Julius Caesar.
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
 .PP
 För mig är det annorlunda.
 Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
 Det känns inte bättre eller sämre nu än förr.
+.so sympatier-graph.ms
 .PP
 Här kommer en motsägelse jag har haft svårt att förklara:
 Tänk dig en man,
@@ -86,7 +98,6 @@ Tänk också på hur det är för Anna,
 vars arbetskamrat i hemtjänsten Fatima riskerar att utvisas.
 Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
 än att slänga ut dem som gömmer sig och jobbar svart.
-.so sympatier-graph.ms
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och statskupp,
 men oftast har det på senare tid varit genom allmänna val.
@@ -131,7 +142,7 @@ Jämför vår fiktive Bill ovan.
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
-Han växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning.
+Han växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning på grund av försörjningsproblem.
 1924 \[en] 1926 var han ledare för det italienska kommunistpartiet.
 Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska regim.
 .[
@@ -154,6 +165,11 @@ Tillsammans kallas dessa samhällets ekonomiska bas, de är de materiella förut
 Den kulturella utvecklingen äger rum i överbyggnaden,
 som innehåller allt som inte har med den materiella produktionen att göra.
 Överbyggnaden styrs från basen, och bidrar till att vidmakthålla basen i ett komplext samspel.
+.PP
+I \f[I]Kommunistiska manifestet\f[P]s värld genomlöper mänskligheten helt andra stadier än i Platons
+.EQ
+roman slavsamhäller -> roman feodalism -> roman kapitalism -> roman socialism -> roman kommunism
+.EN
 .PP
 En viktig aspekt av Marx teori är arbetarnas alienation.
 Det faktum att arbetaren inte arbetar för sig själv,
@@ -376,10 +392,10 @@ Ett smakprov till
 .ID
 .vs 12
 .ps 10
-Svara, du med röda stjärnan på din vårkavaj:
-alla tåg som går mot lyckans land på första maj
-\[em] svara på en fråga från en vän som tappat tron:
-när är dom framme vid sin slutstation?
+Var blev ni av, ljuva drömmar om en rimligare jord,
+ett nytt sätt att leva? Var det bara tomma ord?
+Var är dom nu, dom som påstod att dom hade alla svar
+men svek alla oss och valde makten? Dom är kvar.
 .DE
 Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
 I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare,
@@ -445,3 +461,21 @@ Blabla blabla blabla blabla blabla.
 .[
 daniel rueda 2021
 .]
+.section
+.LP
+Blabla blabla blabla blabla blabla.
+Blabla blabla blabla blabla blabla.
+.PP
+Eller som Hasse och Tage
+.[
+Danielsson Alfredson 1976
+.]
+skaldade:
+.ID
+.vs 12
+.ps 10
+Vi som satts att leva i besvikelsens epok
+\[em] ja, vad gör vi nu? Vad ska vi tala på för språk?
+Ett sätt är att, även om det blåser lite kallt,
+tro på det vi trodde på \[em] trots allt!
+.DE

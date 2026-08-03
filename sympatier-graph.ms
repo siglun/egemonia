@@ -52,7 +52,7 @@ Stapeldiagram av data fr\[oa]n Tabell 1.
 .[
 SCB 2026
 .]
-Notera hur skillnaderna mellan k\[:o]nen g\[oa]r i olika riktning i regerings underlaget (SD, M, KD och L) och oppositionen (C, S, MP och V).
+Notera hur skillnaderna mellan k\[:o]nen g\[oa]r i olika riktning i regeringsunderlaget (SD, M, KD och L) och oppositionen (C, S, MP och V).
 F\[:o]r de minsta partierna \[:a]r skillnaden sannolikt inte statistiskt s\[:a]kerst\[:a]lld (felmarginalen representeras av de sm\[oa] staplarna),
 men skillnaden g\[oa]r i den beskrivna riktningen f\[:o]r samtliga partier.
 .sp
