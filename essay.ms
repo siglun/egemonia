@@ -448,6 +448,11 @@ för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
 .section
 .LP
+Gramsci och hans följare har arbetade med strukturen i överbyggnaden.
+Hur klassamhället samspelar med andra sociala grupperingar och kapitalismen.
+Vi fick en begreppsapparat för ändamålet;
+många har noterat detta faktum.
+.PP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
 .[
 Gustafsson klassens vakthund
