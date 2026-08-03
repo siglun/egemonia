@@ -1,5 +1,5 @@
 .TL
-Den sardinske puckelryggens hegemoni \[em] Egemonia 
+Finns det något annat än lögn nedströms kulturen?
 .AU
 Sigfrid Lundberg*
 .FS *
@@ -9,14 +9,16 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
-.RD
-
+.LP
+.ID 9c
 .vs 12
 .ps 10
 Svara, du med röda stjärnan på din vårkavaj:
 alla tåg som går mot lyckans land på första maj
 \[em] svara på en fråga från en vän som tappat tron:
 när är dom framme vid sin slutstation?\**
+
+.DE
 .FS
 Kuplett av.
 .[ 
@@ -25,7 +27,6 @@ Danielsson Alfredson 1976
 .]
 Originaltext och musik: Gloria Sklerov & Henry Lloyd (\[rq]Where Did They Go?\[rq]). 
 .FE
-.DE
 .section
 Allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
