@@ -398,6 +398,10 @@ Var är dom nu, dom som påstod att dom hade alla svar
 men svek alla oss och valde makten? Dom är kvar.
 .DE
 Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
+Socialdemokraterna förlorade 1976, efter att ha regerat sedan 1946.
+.[
+regeringsbildningar 2023
+.]
 I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare,
 och behålla makten ett drygt decennium till 1990.
 Stuart Hall skrev sin med rätta berömda \[rq]The great moving right show\[rq].
