@@ -102,7 +102,7 @@ Det är enklare att utvisa folk med adress i folkbokföringen och fast jobb,
 .PP
 Oligarki eller tyranni kan naturligtvis uppkomma genom revolt och statskupp,
 men oftast har det på senare tid varit genom allmänna val.
-Ofta är det Bill och hans olycksbröder som valt tyrannen.
+Ofta är det Bill och hans olycksbröder som röstat på tyrannen.
 Det är sannolikt inte Anna (se Figur 1).
 Dessa är för mig några av de största paradoxerna i samtiden:
 Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring för att tillsätta en förhoppningsfull tyrannaspirant,
@@ -139,7 +139,9 @@ i synnerhet bland konservativa och republikanska väljare.
 Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
+.LP
 .so sympatier.ms
+.br
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
@@ -296,7 +298,6 @@ där hastigheten varmed alla tillståndsvariabler ändras är noll.
 Snarare ett tillstånd som vidmakthålls genom att olika krafter motverkar varandra.
 Den gruppering vars intellektuella lyckas styra det offentliga samtalet får kulturell hegemoni,
 vilken brukar genomsyra stora delar av civilsamhället inklusive smak, moral, sedvänjor, religion och politik, och sist men inte minst vad som uppfattas som sunt förnuft.
-.PP
 Gramsci använde sina begrepp för att bygga en modell för hur samhällen kan förändras eller hur en revolution fungerar.
 Staten har två samhällsskikt
 .EQ
@@ -332,13 +333,13 @@ som antyder att revolutionen där mer liknar ett skyttegravskrig där parterna h
 .PP
 Ur tabellen ovan kan vi härleda många sätt socialistiska revolutioner kan misslyckas på.
 Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar.
-Det kan också vara så att revolutionen helt enkelt pågår.
+Det kan också vara så att revolutionen helt enkelt pågår utan att du lägger märke till den.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
 Förmodligen kan ett sådant tillstånd vidmakthållas länge om en gynnsam saltsjöbadsanda genomsyrar civilsamhället.
 .PP
 Det är ett annat problem som sannolikt är mer akut för Gramsci personligen än varför revolutionerna i väst misslyckades (trots att han var gift med en ryska och att han levt något år i Moskva).
-Mussolini tog makten 1922 och för jämnt ett sekel sedan arresterades Gramsci, och sedan ägnade han sig åt sitt projekt så länge han orkade innan han avled i fängelset.
-Varför lyckas fascismen?
+Mussolini tog makten 1922 och för jämnt ett sekel sedan, 1926, arresterades Gramsci, och sedan ägnade han sig åt sitt projekt så länge han orkade innan han avled i fängelset.
+Han måste funderat mycket på varför fascismen lyckades?
 .PP
 Gramsci tänker sig ett tillstånd liknande positionskriget vi diskuterade ovan.
 Vi har en progressiv kraft $A$ och en regressiv $B$ i balans så tillvida att ingen av dem kan ta makten.
@@ -389,7 +390,6 @@ Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
 .[
 alfredson danielsson 1976
 .]
-Ett smakprov till
 .ID
 .vs 12
 .ps 10
@@ -399,7 +399,7 @@ Var är dom nu, dom som påstod att dom hade alla svar
 men svek alla oss och valde makten? Dom är kvar.
 .DE
 Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
-Socialdemokraterna förlorade 1976, efter att ha regerat sedan 1946.
+Socialdemokraterna förlorade valet 1976, efter att ha regerat sedan 1946.
 .[
 regeringsbildningar 2023
 .]
