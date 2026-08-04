@@ -140,7 +140,7 @@ Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
 .LP
-.so sympatier.ms
+.\" so sympatier.ms
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
@@ -311,6 +311,8 @@ Inspirerad av Perry
 anderson antinomies gramsci
 .] 
 vill jag sammanfatta detta så här
+.bp
+.LP
 .TS
 center tab(;);
 l l l .

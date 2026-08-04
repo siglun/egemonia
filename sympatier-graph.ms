@@ -48,7 +48,8 @@ copy "sympatier-data.text" thru {
 .vs 12
 .ps 10
 Figur 1.
-Stapeldiagram av data fr\[oa]n Tabell 1.
+Skattning av valresultatet \[rq]om det var val idag\[rq] Maj 2026.
+Data från Statistiska Centralbyrån.
 .[
 SCB 2026
 .]

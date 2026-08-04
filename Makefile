@@ -35,7 +35,7 @@ clean:
 	rm -f *~ *.eps
 
 essay.pdf: essay.ms sympatier.ms sympatier-data.text sympatier-graph.ms \
-	$(OTHERS)
+	metapolitics.ms metapolitics.text $(OTHERS)
 
 # Remember
 #
