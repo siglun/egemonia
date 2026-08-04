@@ -329,8 +329,7 @@ Arbetarklassen deltog i staten genom valda representanter i parlamentet, Gramsci
 .PP
 Gramsci beskriver strategin i väst med begreppet position,
 som antyder att revolutionen där mer liknar ett skyttegravskrig där parterna håller sina positioner snarare än att de uppsöker varandra genom olika manövrar.
-.PP
-Ur tabellen ovan kan vi härleda många sätt socialistiska revolutioner kan misslyckas på.
+Socialistiska revolutioner kan misslyckas på många sätt.
 Bland de viktigaste är kanske att civilsamhället kan leda fram till samförståndslösningar.
 Det kan också vara så att revolutionen helt enkelt pågår utan att du lägger märke till den.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
@@ -381,6 +380,7 @@ medan Napoleon III och Bismarck är regressiva.
 En kollektiv intellektuell
 .], s. 256)
 Jag antar att den i vilket fall kan vara mer eller mindre fascistisk.
+.so metapolitics.ms
 .section
 .LP
 Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
