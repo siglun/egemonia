@@ -141,7 +141,6 @@ Pearson 2026
 Jämför vår fiktive Bill ovan.
 .LP
 .so sympatier.ms
-.br
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
