@@ -436,6 +436,8 @@ En förutsättning i resonemanget är att när Labour (Socialdemokratin) har reg
 roman parti -> roman regering
 .EN
 Det är en farlig operation för arbetarklassen.
+Gynnsam när dess representanter sitter i regeringen,
+livsfarlig efter ett maktskifte.
 När Torypartiet (de konservativa) vill ta makten kämpar de för att motsvarande överföringar av sympatier
 .EQ
 lpile {
@@ -444,6 +446,7 @@ above
 roman fackföreningen -> roman folket
 }
 .EN
+Undersåtarna skall alltså avstå från solidaritet med klassfränder och tänka mer på ett diffust folk och nationen än på sina egna organisationer.
 Se
 .[ 
 #
