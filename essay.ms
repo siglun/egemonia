@@ -1,5 +1,5 @@
 .TL
-Finns det något annat än lögn nedströms kulturen?
+En exkursion till zonen nedströms kulturen
 .AU
 Sigfrid Lundberg*
 .FS *
@@ -457,6 +457,11 @@ för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
 .section
 .LP
+.QP
+.vs 12
+.ps 10
+För att säkerställa att 1970- och 1980-talets markanta topp för ordet ”metapolitics” representerar en reell diskursiv trend — och inte bara är en rörlig artefakt orsakad av korpusdrift (det vill säga att Oxford English Dictionary vid denna tidpunkt fasade in en större andel statsvetenskaplig litteratur i sitt digitala index) — har en kontrollterm lagts till i analysen. Genom att kontrastera frekvensen med ordet ”geopolitics” (se Figur 2) synliggörs två helt olika utvecklingslinjer.Medan ”geopolitics” uppvisar en närmast exponentiell tillväxt under hela efterkrigstiden, kulminerar ”metapolitics” skarpt för att därefter sjunka avsevärt. Denna tydliga divergens tillåter oss att avfärda urvalsfel (sampling bias) i korpusen. Divergensen bekräftar att den temporära ökningen för ”metapolitics” under det sena 1900-talet utgör ett isolerat och genuint kulturpolitiskt fenomen, vilket tidsmässigt sammanfaller med de intensifierade debatterna kring överbyggnadens roll och högervågens intellektuella mobilisering.
+.PP
 Gramsci och hans följare har arbetade med strukturen i överbyggnaden.
 Hur klassamhället samspelar med andra sociala grupperingar och kapitalismen.
 Vi fick en begreppsapparat för ändamålet;
