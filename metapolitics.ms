@@ -70,7 +70,7 @@ Data h\[:a]mtade 2026-08-04.
 F\[:o]r att s\[:a]kerst\[:a]lla att 1970- och 1980-talets markanta topp f\[:o]r ordet \[rq]metapolitics\[rq] representerar en verklig trend \[em] och inte \[:a]r en artefakt orsakad av korpusdrift har en kontrollterm  \[rq]geopolitics\[rq] lagts till i analysen.
 En s\[oa]dan drift skulle kunna intr\[:a]ffa om OED vid denna tidpunkt lade in en st\[:o]rre andel statsvetenskaplig litteratur i sitt index.
 Genom att kontrastera de tv\[oa] ordens frekvenser synligg\[:o]rs tv\[oa] helt olika utvecklingslinjer.
-Medan \[rq]geopolitics\[rq] uppvisar en n\[:a]rmast exponentiell tillv\[:a]xt under hela efterkrigstiden, kulminerar \[rq]metapolitics\[rq] f\[:o]r att d\[:a]refter sjunka.
+\[rq]Geopolitics\[rq] uppvisar en n\[:a]rmast exponentiell tillv\[:a]xt under hela efterkrigstiden, medan \[rq]metapolitics\[rq] n\[oa]r ett maximum runt 1970 f\[:o]r att d\[:a]refter sjunka n\[oa]got.
 Denna tydliga divergens till\[oa]ter oss att avf\[:a]rda urvalsfel (sampling bias) i korpusen.
 Divergensen bekr\[:a]ftar att den tempor\[:a]ra \[:o]kningen f\[:o]r \[rq]metapolitics\[rq] under det sena 1900-talet utg\[:o]r ett isolerat och genuint kulturpolitiskt fenomen,
 vilket tidsm\[:a]ssigt sammanfaller med de intensifierade debatterna kring \[:o]verbyggnadens roll och h\[:o]gerv\[oa]gens intellektuella mobilisering.
