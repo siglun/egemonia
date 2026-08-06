@@ -37,7 +37,7 @@ line solid color "black" from 1967,0.0006*ymax to 1967,0.15*ymax ; "Gramsci i sv
 
 line solid color "black" from 1968,0.0006*ymax to 1968,0.08*ymax ; "GRECE etablerades 1968" ljust at 1968.75,0.08*ymax
 
-line solid color "black" from 1971,0.0006*ymax to 1971,0.04*ymax ; "Gramsci i engelsk  \[:o]vers\[:a]ttning 1971"  ljust at 1971.75,0.04*ymax
+line solid color "black" from 1971,0.0006*ymax to 1971,0.04*ymax ; "Gramsci i engelsk \[:o]vers\[:a]ttning 1971"  ljust at 1971.75,0.04*ymax
 
 line solid color "black" from 1976,0.0006*ymax to 1976,0.02*ymax ; "(S) f\[:o]rlorade efter 30 \[oa]r 1976" ljust at 1976.75,0.02*ymax
 
@@ -53,7 +53,7 @@ line solid color "black" from 1980,0.0006*ymax to 1980,0.007*ymax ; "problemform
 .vs 12
 .ps 10
 Figur 2.
-Den relativa frekvensen av ordet \[rq]metapolitics\[rq] i Oxford English Dictionary's korpus\** (logaritmisk skala).
+Den relativa frekvensen av ordet \[rq]metapolitics\[rq] i Oxford English Dictionarys korpus\** (logaritmisk skala).
 .FS
 .I metapolitics
 fr\[oa]n https://doi.org/10.1093/OED/3638586313
@@ -64,7 +64,7 @@ oxford metapolitics 2024
 Ordet uppvisar en mer eller mindre kontinuerlig \[:o]kning fr\[oa]n b\[:o]rjan av 1800-talet till 1960-talet,
 f\[:o]r att n\[oa] en topp p\[oa] 1970-talet och sedan minska.\**
 Diagrammet visar ocks\[oa] \[rq]geopolitics\[rq] i OEDs korpus,
-1900 \[en] 2010\**
+1900 \[en] 2010.\**
 Data h\[:a]mtade 2026-08-04.
 .FS
 F\[:o]r att s\[:a]kerst\[:a]lla att 1970- och 1980-talets markanta topp f\[:o]r ordet \[rq]metapolitics\[rq] representerar en verklig trend \[em] och inte \[:a]r en artefakt orsakad av korpusdrift har en kontrollterm  \[rq]geopolitics\[rq] lagts till i analysen.
