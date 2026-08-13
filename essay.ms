@@ -13,20 +13,21 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 .ID 9c
 .vs 12
 .ps 10
-Svara, du med röda stjärnan på din vårkavaj:
-alla tåg som går mot lyckans land på första maj
-\[em] svara på en fråga från en vän som tappat tron:
-när är dom framme vid sin slutstation?\**
-
-.DE
+The Democrats don't matter...
+The real opposition is the media.
+And the way to deal with them
+is to flood the zone with shit.\**
 .FS
-Kuplett av.
+Se 
 .[ 
 #
-Danielsson Alfredson 1976
+Wikipedia Flood the zone
 .]
-Originaltext och musik: Gloria Sklerov & Henry Lloyd (\[rq]Where Did They Go?\[rq]). 
+artikeln \f[I]Flood the zone\f[P].
+Steve Bannon lär ha sagt detta i en intervju med Michael Lewis för Bloomberg.
 .FE
+.DE
+.LP
 .section
 Allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
@@ -386,17 +387,16 @@ Jag antar att den i vilket fall kan vara mer eller mindre fascistisk.
 .LP
 Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
 Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
-\
 .[
 alfredson danielsson 1976
 .]
 .ID
 .vs 12
 .ps 10
-Var blev ni av, ljuva drömmar om en rimligare jord,
-ett nytt sätt att leva? Var det bara tomma ord?
-Var är dom nu, dom som påstod att dom hade alla svar
-men svek alla oss och valde makten? Dom är kvar.
+Svara, du med röda stjärnan på din vårkavaj:
+alla tåg som går mot lyckans land på första maj
+\[em] svara på en fråga från en vän som tappat tron:
+när är dom framme vid sin slutstation?\**
 .DE
 Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
 Socialdemokraterna förlorade valet 1976, efter att ha regerat sedan 1946.
@@ -455,9 +455,22 @@ stuart hall 1979
 för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
 .so metapolitics.ms
+.LP
 .section
 .LP
-.PP
+.ID 9.0c
+.vs 12
+.ps 10
+Var blev ni av, ljuva drömmar om en rimligare jord,
+ett nytt sätt att leva? Var det bara tomma ord?
+Var är dom nu, dom som påstod att dom hade alla svar
+men svek alla oss och valde makten? Dom är kvar.
+.br
+.[
+Danielsson Alfredson 1976
+.]
+.DE
+.LP
 Gramsci och hans följare har arbetade med strukturen i överbyggnaden.
 Hur klassamhället samspelar med andra sociala grupperingar och kapitalismen.
 Vi fick en begreppsapparat för ändamålet;
