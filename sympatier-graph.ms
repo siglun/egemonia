@@ -49,7 +49,7 @@ copy "sympatier-data.text" thru {
 .ps 10
 Figur 1.
 Skattning av valresultatet \[rq]om det var val idag\[rq] Maj 2026.
-Data från Statistiska Centralbyrån.
+Data fr\[oa]n Statistiska Centralbyr\[oa]n.
 .[
 SCB 2026
 .]
