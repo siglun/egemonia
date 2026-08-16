@@ -33,13 +33,13 @@ copy "geopolitics.text" thru { next comp at $1,$2 }
 line solid  color "black" from 1812,0.96*ymax to 1834,0.96*ymax ; "metapolitics" ljust at 1838,0.96*ymax
 line dashed color "black" from 1812,0.6*ymax to 1834,0.6*ymax ; "geopolitics"  ljust at 1838,0.6*ymax
 
-line solid color "black" from 1967,0.0006*ymax to 1967,0.3*ymax ; "Gramsci i svensk \[:o]vers\[:a]ttning 1967"  rjust at 1967.5,0.3*ymax
+line solid color "black" from 1967,0.0006*ymax to 1967,0.06*ymax ; "Gramsci i svensk \[:o]vers\[:a]ttning 1967"  rjust at 1966.5,0.06*ymax
 
-line solid color "black" from 1968,0.0006*ymax to 1968,0.1*ymax ; "GRECE etablerades 1968" ljust at 1968.75,0.1*ymax
+line solid color "black" from 1968,0.0006*ymax to 1968,0.1*ymax ; "GRECE etablerades 1968" ljust at 1969,0.1*ymax
 
 line solid color "black" from 1971,0.0006*ymax to 1971,0.06*ymax ; "Gramsci i engelsk \[:o]vers\[:a]ttning 1971"  ljust at 1971.75,0.06*ymax
 
-line solid color "black" from 1976,0.0006*ymax to 1976,0.03*ymax ; "(S) f\[:o]rlorade efter 30 \[oa]r 1976" ljust at 1976.75,0.03*ymax
+line solid color "black" from 1976,0.0006*ymax to 1976,0.03*ymax ; "(S) f\[:o]rlorade efter 44 \[oa]r 1976" ljust at 1976.75,0.03*ymax
 
 line solid color "black" from 1978,0.0006*ymax to 1978,0.02*ymax ; "Timbro grundas 1978" ljust at 1979.75,0.02*ymax
 
@@ -47,7 +47,7 @@ line solid color "black" from 1979,0.0006*ymax to 1979,0.010*ymax ; "Thatcher vi
 
 line solid color "black" from 1980,0.0006*ymax to 1980,0.007*ymax ; "problemformuleringsprivilegiet 1980" ljust at 1980.75,0.007*ymax
 
-line solid color "black" from 1957,0.0006*ymax to 1957,0.007*ymax ; "Engelsk \[:o]vers\[:a]ttning 1957" rjust at 1957.75,0.007*ymax
+line solid color "black" from 1957,0.0006*ymax to 1957,0.007*ymax ; "Litet urval av Gramsci p\[oa] engelska 1957" rjust at 1957.5,0.007*ymax
 
 # line solid color "red" from 1812,0.3*ymax to 1834,0.3*ymax ;
 #"$metapolitics smallover geopolitics$"  ljust at 1838,0.3*ymax
