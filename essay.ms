@@ -1,5 +1,5 @@
 .TL
-En exkursion till zonen nedströms kulturen
+En exkursion till spelplanen nedströms kulturen
 .AU
 Sigfrid Lundberg*
 .FS *
@@ -13,10 +13,16 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 .ID 9c
 .vs 12
 .ps 10
+.\" Demokraterna betyder inget...
+Medierna är den den verkliga oppositionen.
+Sättet att hantera dem
+är att dränka spelplanen med skit.\**
+.ig
 The Democrats don't matter...
 The real opposition is the media.
 And the way to deal with them
-is to flood the zone with shit.\**
+is to flood the zone with shit.
+..
 .FS
 Se 
 .[ 
@@ -29,6 +35,7 @@ Steve Bannon lär ha sagt detta i en intervju med Michael Lewis för Bloomberg.
 .DE
 .LP
 .section
+.LP
 Allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
 .I sämre .
@@ -52,6 +59,8 @@ Platon hade inte samma syn på demokrati som vi hade i det 20:e och nog faktiskt
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av sina busar.
 .PP
+Ett syfte med denna kria är diskutera en del av de krafter som av sina upphovspersoner uppfattas som att kunna orsaka sådana kedjor av tillstånd, som att timokratin uppkommer ur aristokratin på grund av girighet.
+.PP
 Det är lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
 Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann,
 eller som Antonio
@@ -63,7 +72,9 @@ skulle ha sagt: en Caesar.
 Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu.
 Eller Julius Caesar.
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
-.PP
+.LP
+.section
+.LP
 För mig är det annorlunda.
 Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
 Det känns inte bättre eller sämre nu än förr.
@@ -110,6 +121,7 @@ Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring f
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
 Alla demokratiska ledare är valda av folket,
 varje tyrann är köpt på sitt eget vis.
+.LP
 .section
 .LP
 Det finns alldeles för många sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
@@ -140,12 +152,65 @@ i synnerhet bland konservativa och republikanska väljare.
 Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
+.PP
+Ett andra mål jag har med min text är att visa vilka krafter som gör det möjligt att förstå paradoxala förlopp i historien.
+.so metapolitics.ms
 .LP
-.\" so sympatier.ms
+.section
+.LP
+Den politik som leder till vad Bill, Anna och Fatima råkar ut för brukar kallas
+.I populism .
+Detta är en ledtråd till hur paradoxala.
+.QP
+.vs 12
+.ps 10
+Man kan säga att i populism handlar det om att återupprätta \[rq]det goda folket\[rq] och återge det dess rättmätiga plats,
+vilket betyder att möjliggöra att folkets hittills nedtystade vilja kommer fram  och implementeras.
+Det kan sägas röra ett slags uppror mot en minoritet som styr på ett sätt som går emot folkets intressen.
+.[ (
+Patrik Fridlund 2025
+.], s. 131)
+.PP
+Det innebär att vi betraktar populismen som en ideologi, en egen idé.
+Alternativet är att bektrakta populismen som en metod.
+Läs Fridlunds citat igen, med andra glasögon.
+Låt det blir ett mer abstrakt perspektiv.
+Vi ser nu hur man kan se på politikens huvudfåra som något som bedrivs av en elit som går \[rq]emot folkets intressen\[rq].
+Mer abstrakt är detta en politisk utsaga
+.I om
+politiken.
+Politiska utsagor om politik beskriver vi som
+.I metapolitiska
+utsagor.
+.PP
+Studiet av matapolitik går tillbaka till sent 1700-tal,
+och termen förekommer i både tyskan och engelskan sedan den tiden.
+Begreppet finns inte belagt i svenska språket förrän de senaste decennierna.
+I \f[I]Oxford English Dictionary\f[P]s korpus är det belagt sedan 1784.
+.QP
+.vs 12
+.ps 10
+Abstract political science; the investigation of the theoretical basis of political ideas or beliefs;
+.br
+\f[I](disparaging)\f[P] impractical political theorizing.
+.[
+OED metapolitics
+.]
+.PP
+OED visar två aspekter av begreppet.
+(i) Studiet av den teoretiska grunden för idéer och trosföreställningar.
+(ii) Ett nedlåtande omdöme om politiskt teoretiserande.
+Användningen av begreppet har ökat sakta men exponentiellt sedan det introducerades.
+Se Figur 2.
+Jag har använt figuren för att ge en kronologi för såväl internationella som svenska relaterade händelser.
+Jag återvänder till dem nedan.
+.LP
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
-Han växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning på grund av försörjningsproblem.
+Han är också den som utan att själv använda ordet metapolitik är den som kanske tidigast utvecklat sofistikerad metapolitisk teori.
+.PP
+Gramsci växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning på grund av försörjningsproblem.
 1924 \[en] 1926 var han ledare för det italienska kommunistpartiet.
 Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska regim.
 .[
@@ -312,7 +377,6 @@ Inspirerad av Perry
 anderson antinomies gramsci
 .] 
 vill jag sammanfatta detta så här
-.bp
 .LP
 .TS
 center tab(;);
@@ -454,7 +518,6 @@ stuart hall 1979
 .]
 för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
-.so metapolitics.ms
 .LP
 .section
 .LP
