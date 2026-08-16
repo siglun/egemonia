@@ -1,5 +1,5 @@
 .TL
-En exkursion till spelplanen nedströms kulturen
+Metapolitik: En exkursion till spelplanen nedströms kulturen
 .AU
 Sigfrid Lundberg*
 .FS *
@@ -15,8 +15,8 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 .ps 10
 .\" Demokraterna betyder inget...
 Medierna är den den verkliga oppositionen.
-Sättet att hantera dem
-är att dränka spelplanen med skit.\**
+Sättet att hantera dem är att
+dränka spelplanen med skit.\**
 .ig
 The Democrats don't matter...
 The real opposition is the media.
@@ -534,10 +534,31 @@ Danielsson Alfredson 1976
 .]
 .DE
 .LP
-Gramsci och hans följare har arbetade med strukturen i överbyggnaden.
-Hur klassamhället samspelar med andra sociala grupperingar och kapitalismen.
-Vi fick en begreppsapparat för ändamålet;
-många har noterat detta faktum.
+Gramsci och hans följare arbetade med strukturen i överbyggnaden.
+Han studerade hur klasser samspelar med andra sociala grupperingar och kapitalismen,
+och han gav oss både metoder och en begreppsapparat för ändamålet.
+Många noterade detta.
+Det tog ett bra tag innan fängelsedagböckerna nådde offentligheten.
+1949 \[en] \1950 var Gramsci död,
+kriget slut och hans vän Palmiro Togliatti kunde trycka ett mindre urval.
+.[
+Chesta 2017
+.]
+Sedan kom ett större urval på svenska 1967
+.[
+Gramsci 1967
+.]
+och ett riktigt stort på engelska 1971.
+.[
+Gramsci 1971
+.]
+Kort sagt, metapolitikens metoder spred sig som ringar på vattnet (se Figur 2).
+Alain de Benoist var en av alla som under 1960 \[en] 1970-talen studerade de nya metoderna.
+Han blev 1968 en av grundarna av GRECE (Groupement de Recherche et d’Études pour la Civilisation Européenne  \[em] Research and Study Group for European Civilization.
+Framför allt var han en av de första som formulerade en \[rq]höger-gramscianism\[rq].
+.[
+Rueda de Benoist 2021
+.]
 .PP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
 .[
