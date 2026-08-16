@@ -70,6 +70,12 @@ f\[:o]r att n\[oa] en topp p\[oa] 1970-talet och sedan minska.\**
 Diagrammet visar ocks\[oa] \[rq]geopolitics\[rq] i OEDs korpus,
 1900 \[en] 2010.\**
 Data h\[:a]mtade 2026-08-04.
+.QP
+.vs 12
+.ps 10
+Grafen visar ocks\[oa] h\[:a]ndelser ur metapolitikens historia,
+som relaterar till problemen jag vill belysa med min text.
+En del av dem diskuteras vidare i br\[:o]dtexten.
 .FS
 F\[:o]r att s\[:a]kerst\[:a]lla att 1970- och 1980-talets markanta topp f\[:o]r ordet \[rq]metapolitics\[rq] representerar en verklig trend \[em] och inte \[:a]r en artefakt orsakad av korpusdrift har en kontrollterm  \[rq]geopolitics\[rq] lagts till i analysen.
 En s\[oa]dan drift skulle kunna intr\[:a]ffa om OED vid denna tidpunkt lade in en st\[:o]rre andel statsvetenskaplig litteratur i sitt index.

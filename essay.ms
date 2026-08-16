@@ -10,7 +10,7 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
 .LP
-.ID 9c
+.ID 8c
 .vs 12
 .ps 10
 .\" Demokraterna betyder inget...
@@ -521,7 +521,7 @@ Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en för
 .LP
 .section
 .LP
-.ID 9.0c
+.ID 8.0c
 .vs 12
 .ps 10
 Var blev ni av, ljuva drömmar om en rimligare jord,
