@@ -1,3 +1,4 @@
+.nr MID 8.3c
 .TL
 Metapolitik: En exkursion till spelplanen nedströms kulturen
 .AU
@@ -10,7 +11,7 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
 .LP
-.ID 8c
+.ID \n[MID]u
 .vs 12
 .ps 10
 .\" Demokraterna betyder inget...
@@ -24,12 +25,12 @@ And the way to deal with them
 is to flood the zone with shit.
 ..
 .FS
-Se 
+En allusion till uttrycket \f[I]Flood the zone\f[P].
+Se artikeln med samma namn.
 .[ 
 #
 Wikipedia Flood the zone
 .]
-artikeln \f[I]Flood the zone\f[P].
 Steve Bannon lär ha sagt detta i en intervju med Michael Lewis för Bloomberg.
 .FE
 .DE
@@ -59,7 +60,8 @@ Platon hade inte samma syn på demokrati som vi hade i det 20:e och nog faktiskt
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av sina busar.
 .PP
-Ett syfte med denna kria är diskutera en del av de krafter som av sina upphovspersoner uppfattas som att kunna orsaka sådana kedjor av tillstånd, som att timokratin uppkommer ur aristokratin på grund av girighet.
+Ett syfte med denna kria är att diskutera en del av de krafter som kan orsaka sådana kedjor av tillstånd.
+Som att timokratin uppkommer ur aristokratin på grund av girighet.
 .PP
 Det är lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
 Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann,
@@ -76,8 +78,8 @@ Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
 .section
 .LP
 För mig är det annorlunda.
-Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
-Det känns inte bättre eller sämre nu än förr.
+Jag tycker att den stora skillnaden mellan nutid och alla de dåtider jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
+För mig känns varken bättre eller sämre nu än förr.
 .so sympatier-graph.ms
 .PP
 Här kommer en motsägelse jag har haft svårt att förklara:
@@ -145,15 +147,14 @@ trots att studier i många länder visar att folks förtroende för forskare och
 .[
 Pearson 2026
 .]
-Det visar sig att förtroendet inte sjunker likformigt i hela populationer utan ofta bara i delar av dem.
-Ett exempel är att förtroendet för medicinska och naturvetenskapliga forskare i USA sjunker,
-i synnerhet bland konservativa och republikanska väljare.
+Det visar sig att förtroendet inte sjunker likformigt i hela populationer utan bara i delar av dem.
+Till exempel: Förtroendet för medicinsk och naturvetenskaplig forskning sjunker bland konservativa och republikanska väljare i USA.
 .[
 Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
 .PP
-Ett andra mål jag har med min text är att visa vilka krafter som gör det möjligt att förstå paradoxala förlopp i historien.
+Ett andra mål jag har med min text är att visa vilka krafter som gör det möjligt att förstå sådana paradoxala förlopp i historien.
 .so metapolitics.ms
 .LP
 .section
@@ -175,7 +176,7 @@ Det innebär att vi betraktar populismen som en ideologi, en egen idé.
 Alternativet är att bektrakta populismen som en metod.
 Läs Fridlunds citat igen, med andra glasögon.
 Låt det blir ett mer abstrakt perspektiv.
-Vi ser nu hur man kan se på politikens huvudfåra som något som bedrivs av en elit som går \[rq]emot folkets intressen\[rq].
+Vi ser nu hur man kan se politiken som något som bedrivs av en elit som går \[rq]emot folkets intressen\[rq].
 Mer abstrakt är detta en politisk utsaga
 .I om
 politiken.
@@ -208,7 +209,7 @@ Jag återvänder till dem nedan.
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
-Han är också den som utan att själv använda ordet metapolitik är den som kanske tidigast utvecklat sofistikerad metapolitisk teori.
+Han är också den som utan att själv använda ordet metapolitik är en av dem som tidigt utvecklade sofistikerad metapolitisk teori.
 .PP
 Gramsci växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning på grund av försörjningsproblem.
 1924 \[en] 1926 var han ledare för det italienska kommunistpartiet.
@@ -447,14 +448,7 @@ medan Napoleon III och Bismarck är regressiva.
 En kollektiv intellektuell
 .], s. 256)
 Jag antar att den i vilket fall kan vara mer eller mindre fascistisk.
-.section
-.LP
-Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
-Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
-.[
-alfredson danielsson 1976
-.]
-.ID
+.ID \n[MID]u
 .vs 12
 .ps 10
 Svara, du med röda stjärnan på din vårkavaj:
@@ -462,11 +456,21 @@ alla tåg som går mot lyckans land på första maj
 \[em] svara på en fråga från en vän som tappat tron:
 när är dom framme vid sin slutstation?\**
 .DE
-Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
-Socialdemokraterna förlorade valet 1976, efter att ha regerat sedan 1946.
+.LP
+.section
+.LP
+Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
+Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
+.[
+alfredson danielsson 1976
+.]
+Jag citerar den svenska versionen av sången här och var i denna kria.
+AB Svenska Ord skrev den för att hantera besvikelse över Socialdemokratin.
+Socialdemokraterna förlorade valet 1976, efter att ha regerat sedan 1932 (1946 om man inte räknar in krigsårens samlingsregeringar).
 .[
 regeringsbildningar 2023
 .]
+.PP
 I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare,
 och behålla makten ett drygt decennium till 1990.
 Stuart Hall skrev sin med rätta berömda \[rq]The great moving right show\[rq].
@@ -492,7 +496,7 @@ Andy Knott 2020
 .] 
 kände sig föranledd att skriva \[rq]The new moving right show\[rq].
 .PP
-Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt som rimmar på Gramscis egen.
+Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt, men som båda som rimmar på Gramscis egen.
 .PP
 Särskilt intressant är Halls diskussion av Labour och Socialdemokratin.
 En förutsättning i resonemanget är att när Labour (Socialdemokratin) har regeringsmakten måste arbetarklassen förskjuta sina sympatier
@@ -521,7 +525,7 @@ Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en för
 .LP
 .section
 .LP
-.ID 8.0c
+.ID \n[MID]u
 .vs 12
 .ps 10
 Var blev ni av, ljuva drömmar om en rimligare jord,
@@ -559,6 +563,7 @@ Framför allt var han en av de första som formulerade en \[rq]höger-gramsciani
 .[
 Rueda de Benoist 2021
 .]
+
 .PP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
 .[
@@ -573,7 +578,16 @@ Blabla blabla blabla blabla blabla.
 .[
 daniel rueda 2021
 .]
+.LP
 .section
+.ID \n[MID]u
+.vs 12
+.ps 10
+Vi som satts att leva i besvikelsens epok
+\[em] ja, vad gör vi nu? Vad ska vi tala på för språk?
+Ett sätt är att, även om det blåser lite kallt,
+tro på det vi trodde på \[em] trots allt!
+.DE
 .LP
 Blabla blabla blabla blabla blabla.
 Blabla blabla blabla blabla blabla.
@@ -582,12 +596,4 @@ Eller som Hasse och Tage
 .[
 Danielsson Alfredson 1976
 .]
-skaldade:
-.ID
-.vs 12
-.ps 10
-Vi som satts att leva i besvikelsens epok
-\[em] ja, vad gör vi nu? Vad ska vi tala på för språk?
-Ett sätt är att, även om det blåser lite kallt,
-tro på det vi trodde på \[em] trots allt!
-.DE
+
