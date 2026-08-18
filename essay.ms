@@ -402,6 +402,19 @@ Bland de viktigaste är kanske att civilsamhället kan leda fram till samförst�
 Det kan också vara så att revolutionen helt enkelt pågår utan att du lägger märke till den.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
 Förmodligen kan ett sådant tillstånd vidmakthållas länge om en gynnsam saltsjöbadsanda genomsyrar civilsamhället.
+Eller som Anders Frenander uttrycker saken:
+.QP
+.vs 12
+.ps 10
+Folkhemmets uppbyggnad följde en bestämd tågordning.
+Först kom den ideologiska kompromissen mellan arbete och kapital som infogades i en socialdemokratisk hegemoni.
+Därefter följde den politiska överenskommelsen mellan bondeförbundet och socialdemokraterna,
+mellan 1936 och 1939 till och med i form av koalitionsregering.
+Slutligen fick den svenska modellen sin ekonomiska utformning i Saltsjöabadsavtalet.
+Sålunda hade upprättats ett \[rq]historiskt block\[rq] i Gramscis mening.
+.[
+frenander 1999
+.]
 .PP
 Det är ett annat problem som sannolikt är mer akut för Gramsci personligen än varför revolutionerna i väst misslyckades (trots att han var gift med en ryska och att han levt något år i Moskva).
 Mussolini tog makten 1922 och för jämnt ett sekel sedan, 1926, arresterades Gramsci, och sedan ägnade han sig åt sitt projekt så länge han orkade innan han avled i fängelset.
@@ -563,7 +576,21 @@ Framför allt var han en av de första som formulerade en \[rq]höger-gramsciani
 .[
 Rueda de Benoist 2021
 .]
-
+Det är tveksamt i vilken utsträckning den moderna högern egentligen studerat Gramsci eller de Benoist.
+Deras strategiska överväganden och taktiker syftar till hegemoni i Gramskis mening.
+Andrew Breitbarts doktrin är ett uttryck för detta
+.QP
+.vs 12
+.ps 10
+Right-wing metapolitics in the internet age is encapsulated in the Breitbart Doctrine,
+which holds that ‘politics is downstream from culture’ and seeks to change narratives and opinions by stoking outrage with sensationalist reporting.
+The doctrine’s author,
+the rabble-rouser Andrew Breitbart,
+creator of an eponymous website that taught the US right how to wage culture war online,
+believed new media offered new means to weaken old media, and with it the left’s hegemonic grip.
+.[
+Eliah Bures 2023
+.]
 .PP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
 .[
