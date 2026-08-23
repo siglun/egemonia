@@ -10,7 +10,7 @@ Som pensionär masterstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .br
-Version: \*[BuildDate]
+Datum: \*[BuildDate]
 .FE
 .LP
 .ID \n[MID]u
