@@ -4,6 +4,11 @@
 
 default: essay.pdf
 
+# Capture the last commit date, or current date if changes are uncommitted
+BUILD_DATE := $(shell date "+%Y-%m-%d %H:%M")
+GIT_COMMIT := $(shell git rev-parse --short HEAD 2>/dev/null || echo "unknown")
+
+
 #	cd too-much-modality && $(MAKE)
 
 URI = https://github.com/siglun/egemonia/essay.pdf
@@ -15,7 +20,8 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 SVENSKA =  -msv -mrefspec
 
 .ms.pdf:
-	pdfroff -U -R  -sGtep   -m s  -m pdfmark \
+	pdfroff -U -R  -d BuildDate="$(BUILD_DATE)" \
+	-sGtep   -m s  -m pdfmark \
 	-mdecorations -m dropcap -M ./tmac  ${SVENSKA} \
 	-k  ${PAPER} -Tps  parameters.ms $<  > $*.pdf
 	pdftotext $*.pdf ; wc -w $*.txt ; rm  $*.txt

@@ -9,6 +9,8 @@ Sedermera mjukvaruutvecklare.
 Som pensionär masterstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
+.br
+Version: \*[BuildDate]
 .FE
 .LP
 .ID \n[MID]u
@@ -335,7 +337,10 @@ som är kopplade till sina egna intellektuella.
 Tidigt på 1900-talet växte det fram frikyrkor som hade pastorer,
 fackliga organisationer som utsåg ombudsmän.
 Varje subkultur som växer fram har sina förståsigpåare.
-I Gramscis terminologi kallas dessa för organiska intellektuella. 
+.PP
+I Gramscis terminologi kallas dessa för organiska intellektuella.
+De är knutna till ett framväxande civilsamhälle.
+.sp
 .TS
 center tab(;);
 l l l .
@@ -402,19 +407,6 @@ Bland de viktigaste är kanske att civilsamhället kan leda fram till samförst�
 Det kan också vara så att revolutionen helt enkelt pågår utan att du lägger märke till den.
 Parterna kan ha intagit sina positioner och att vi är inne i ett utdraget positionskrig.
 Förmodligen kan ett sådant tillstånd vidmakthållas länge om en gynnsam saltsjöbadsanda genomsyrar civilsamhället.
-Eller som Anders Frenander uttrycker saken:
-.QP
-.vs 12
-.ps 10
-Folkhemmets uppbyggnad följde en bestämd tågordning.
-Först kom den ideologiska kompromissen mellan arbete och kapital som infogades i en socialdemokratisk hegemoni.
-Därefter följde den politiska överenskommelsen mellan bondeförbundet och socialdemokraterna,
-mellan 1936 och 1939 till och med i form av koalitionsregering.
-Slutligen fick den svenska modellen sin ekonomiska utformning i Saltsjöabadsavtalet.
-Sålunda hade upprättats ett \[rq]historiskt block\[rq] i Gramscis mening.
-.[
-frenander 1999
-.]
 .PP
 Det är ett annat problem som sannolikt är mer akut för Gramsci personligen än varför revolutionerna i väst misslyckades (trots att han var gift med en ryska och att han levt något år i Moskva).
 Mussolini tog makten 1922 och för jämnt ett sekel sedan, 1926, arresterades Gramsci, och sedan ägnade han sig åt sitt projekt så länge han orkade innan han avled i fängelset.
@@ -544,11 +536,14 @@ Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en för
 Var blev ni av, ljuva drömmar om en rimligare jord,
 ett nytt sätt att leva? Var det bara tomma ord?
 Var är dom nu, dom som påstod att dom hade alla svar
-men svek alla oss och valde makten? Dom är kvar.
-.br
-.[
+men svek alla oss och valde makten? Dom är kvar.\**
+.FS
+\
+.[ 
+#
 Danielsson Alfredson 1976
 .]
+.FE
 .DE
 .LP
 Gramsci och hans följare arbetade med strukturen i överbyggnaden.
@@ -591,6 +586,25 @@ believed new media offered new means to weaken old media, and with it the left�
 .[
 Eliah Bures 2023
 .]
+.LP
+.section
+.LP
+1976 förlorar Socialdemokraterna valet efter 44 år vid regeringsmakten.
+Folkhemstanken had uppnåt hegemoni,
+eller som Anders Frenander uttrycker saken:
+.QP
+.vs 12
+.ps 10
+Folkhemmets uppbyggnad följde en bestämd tågordning.
+Först kom den ideologiska kompromissen mellan arbete och kapital som infogades i en socialdemokratisk hegemoni.
+Därefter följde den politiska överenskommelsen mellan bondeförbundet och socialdemokraterna,
+mellan 1936 och 1939 till och med i form av koalitionsregering.
+Slutligen fick den svenska modellen sin ekonomiska utformning i Saltsjöabadsavtalet.
+Sålunda hade upprättats ett \[rq]historiskt block\[rq] i Gramscis mening.
+.[
+frenander 1999
+.]
+
 .PP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
 .[
