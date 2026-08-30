@@ -1,10 +1,10 @@
 .KF
 .G1
 # Setup graph dimensions
-frame ht 6 wid 8
+frame ht 8 wid 10
 
 # Coordinates mapped sequentially across 132 rows (values between 0 and 100)
-coord x -15, 140 y -15, 110
+coord x -15, 142 y -10, 110
 
 
 ticks bot at 1 "2015" , 61 "2020", 121 "2025"
@@ -154,6 +154,11 @@ copy until "END" thru { next at $1,$2 }
 131 73
 132 66
 END
+draw dashed
+copy until "LINE" thru { next at $1,$2 }
+-5 34.4667724133373
+137 66.6550345328971
+LINE
 .G2
 .QP
 .vs 12
