@@ -171,5 +171,12 @@ Data fr\[oa]n Google trends h\[:a]mtade 2026-08-30.
 google trends gramsci 2026
 .]
 .FE
-
+\[:O]kningen i s\[:o]kintresse \[:a]r signifikant,
+Kendall-korrelation $tau$ mot tid \[:a]r +0.39 med $P$*** $< 0.001$.
+Den streckade linjen \[:a]r ber\[:a]knad enligt minsta kvadratmetoden.
+Mer avancerade korrelationer med korrigering f\[:o]r autokorrelation \[:a]ndrar inte slutsatsen.
+.[
+Predicting the Present with Google Trends
+.]
+.\" https://claude.ai/share/9633fc08-1363-4daf-8193-1e4fd1e646ad
 .KE
