@@ -14,8 +14,8 @@ ticks bot at 1 "2015" , 61 "2020", 121 "2025"
 
 # Axis descriptors
 
-label left "Search Interest" left .6
-label bot "Year" down .6
+label left "S\[:o]kintresse" left .6
+label bot "\[oA]r" down .6
 
 
 # Chronological data coordinates
