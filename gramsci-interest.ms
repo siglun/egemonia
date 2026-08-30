@@ -158,5 +158,12 @@ END
 .QP
 .vs 12
 .ps 10
-Figure 3. Search interest in Google for the phrase \f[I]Antonio Gramsci\f[P] between 2015 and 2025.
+Figur 3.
+Googles s\[:o]kintresse f\[:o]r s\[:o]kfrasen \f[I]Antonio Gramsci\f[P] 2015\[en]2025 (relativt index, 100 = h\[:o]gsta v\[:a]rdet i perioden).\**
+.FS
+.[
+google trends gramsci 2026
+.]
+.FE
+Data h\[:a]mtade 2026-08-XX.
 .KE
