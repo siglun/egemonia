@@ -527,6 +527,7 @@ stuart hall 1979
 .]
 för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
+.so gramsci-interest.ms
 .LP
 .section
 .LP
