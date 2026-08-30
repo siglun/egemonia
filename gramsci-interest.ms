@@ -172,9 +172,9 @@ google trends gramsci 2026
 .]
 .FE
 \[:O]kningen i s\[:o]kintresse \[:a]r signifikant,
-Kendall-korrelation $tau$ mot tid \[:a]r +0.39 med $P$*** $< 0.001$.
+Kendalls rangkorrelation $tau = 0.39$ ($P<0.001$) mot tid.
 Den streckade linjen \[:a]r ber\[:a]knad enligt minsta kvadratmetoden.
-Mer avancerade korrelationer med korrigering f\[:o]r autokorrelation \[:a]ndrar inte slutsatsen.
+Mer avancerade test med korrigering f\[:o]r autokorrelation \[:a]ndrar inte slutsatsen.
 .[
 Predicting the Present with Google Trends
 .]
