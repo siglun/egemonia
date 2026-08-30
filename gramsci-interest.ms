@@ -159,7 +159,7 @@ END
 .vs 12
 .ps 10
 Figur 3.
-Googles s\[:o]kintresse f\[:o]r s\[:o]kfrasen \f[I]Antonio Gramsci\f[P] 2015\[en]2025 (relativt index, 100 = h\[:o]gsta v\[:a]rdet i perioden).\**
+Googles s\[:o]kintresse f\[:o]r s\[:o]kfrasen \f[I]Antonio Gramsci\f[P] 2015\[en]2025 i USA (relativt index, 100 = h\[:o]gsta v\[:a]rdet i perioden).\**
 .FS
 Data fr\[oa]n Google trends h\[:a]mtade 2026-08-30.
 .[
