@@ -73,7 +73,7 @@ eller som Antonio
 Gramsci 1971
 .]
 skulle ha sagt: en Caesar.
-Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu.
+Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Benjamin Netanyahu.
 Eller Julius Caesar.
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
 .LP
