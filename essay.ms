@@ -61,9 +61,9 @@ Det sluttande planet mynnar ut i tyranni.
 Platon hade inte samma syn på demokrati som vi hade i det 20:e och nog faktiskt fortfarande har i det 21:a århundradet;
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av sina busar.
-.PP
-Ett syfte med denna kria är att diskutera en del av de krafter som kan orsaka sådana kedjor av tillstånd.
-Som att timokratin uppkommer ur aristokratin på grund av girighet.
+.\" PP
+.\" Ett syfte med denna kria är att diskutera en del av de krafter som kan orsaka sådana kedjor av tillstånd.
+.\" Som att timokratin uppkommer ur aristokratin på grund av girighet.
 .PP
 Det är lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
 Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann,
@@ -143,6 +143,7 @@ tror att vi behöver göra något åt klimatet.
 .FS
 För att vara övertydlig: $100 - 82 = 18$.
 .FE
+.so metapolitics.ms
 .PP
 En likartad observation är att det i politik och media ofta påpekas att förtroendet för experter och forskare sjunker,
 trots att studier i många länder visar att folks förtroende för forskare och vetenskap är högt.
@@ -155,9 +156,8 @@ Till exempel: Förtroendet för medicinsk och naturvetenskaplig forskning sjunke
 Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
-.PP
-Ett andra mål jag har med min text är att visa vilka krafter som gör det möjligt att förstå sådana paradoxala förlopp i historien.
-.so metapolitics.ms
+.\" PP
+.\" Ett andra mål jag har med min text är att visa vilka krafter som gör det möjligt att förstå sådana paradoxala förlopp i historien.
 .LP
 .section
 .LP
@@ -270,6 +270,7 @@ och på grund av att dessa texter blivit väldigt svåra att tolka för hans ent
 .FS
 Jag är en av dem.
 .FE
+.so gramsci-interest.ms
 .section
 .LP
 Kära läsare,
@@ -301,6 +302,11 @@ Jag har också använt en engelsk utgåva
 .[
 Gramsci Hoare 1971
 .]
+.PP
+Intresset för Gramsci har ökat kontinuerligt sedan hans texter från fängelset kom ut.
+Ett tecken på det är sökintresset för hans namn i Google.
+Se Figur 3.
+
 .PP
 Närhelst du ser Gramscis namn,
 är chansen stor att det dyker upp tillsammans med substantivet
@@ -527,7 +533,6 @@ stuart hall 1979
 .]
 för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
-.so gramsci-interest.ms
 .LP
 .section
 .LP
