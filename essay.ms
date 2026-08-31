@@ -1,5 +1,6 @@
+.nr MID 8.3c
 .TL
-En exkursion till zonen nedströms kulturen
+Metapolitik: En exkursion till spelplanen nedströms kulturen
 .AU
 Sigfrid Lundberg*
 .FS *
@@ -8,27 +9,36 @@ Sedermera mjukvaruutvecklare.
 Som pensionär masterstudent i teoretisk filosofi i Lund.
 .br
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
+.br
+Datum: \*[BuildDate]
 .FE
 .LP
-.ID 9c
+.ID \n[MID]u
 .vs 12
 .ps 10
+.\" Demokraterna betyder inget...
+Medierna är den den verkliga oppositionen.
+Sättet att hantera dem är att
+dränka spelplanen med skit.\**
+.ig
 The Democrats don't matter...
 The real opposition is the media.
 And the way to deal with them
-is to flood the zone with shit.\**
+is to flood the zone with shit.
+..
 .FS
-Se 
+En allusion till uttrycket \f[I]Flood the zone\f[P].
+Se artikeln med samma namn.
 .[ 
 #
 Wikipedia Flood the zone
 .]
-artikeln \f[I]Flood the zone\f[P].
 Steve Bannon lär ha sagt detta i en intervju med Michael Lewis för Bloomberg.
 .FE
 .DE
 .LP
 .section
+.LP
 Allt ändras med tiden.
 Platon (428 \[en] 348 f.Kr.) var en av dem som tidigt etablerade tanken på hur samhällen förändras till det
 .I sämre .
@@ -52,6 +62,9 @@ Platon hade inte samma syn på demokrati som vi hade i det 20:e och nog faktiskt
 demokratin innebar för Platon nära nog ett pöbelvälde.
 Ett samhälle styrt av sina busar.
 .PP
+Ett syfte med denna kria är att diskutera en del av de krafter som kan orsaka sådana kedjor av tillstånd.
+Som att timokratin uppkommer ur aristokratin på grund av girighet.
+.PP
 Det är lätt att falla in i tankar som att \f[I]allt var bättre förr\f[P].
 Därifrån kan man se lösningen i att låta några få \f[I]starka män\f[P] styra och till slut ser man fördelarna i att låta allt styras av en tyrann,
 eller som Antonio
@@ -60,13 +73,15 @@ eller som Antonio
 Gramsci 1971
 .]
 skulle ha sagt: en Caesar.
-Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Bibi Netanyahu.
+Starka män som Donald Trump, Viktor Orbán, Vladimir Putin eller Benjamin Netanyahu.
 Eller Julius Caesar.
 Lägg till eller dra ifrån namn från listan, allt efter tycke och smak.
-.PP
+.LP
+.section
+.LP
 För mig är det annorlunda.
-Jag tycker att den stora skillnaden mellan nutid och alla de dåtider som jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
-Det känns inte bättre eller sämre nu än förr.
+Jag tycker att den stora skillnaden mellan nutid och alla de dåtider jag genomlevt är att allt nu känns allt mer motsägelsefullt än det brukade göra.
+För mig känns varken bättre eller sämre nu än förr.
 .so sympatier-graph.ms
 .PP
 Här kommer en motsägelse jag har haft svårt att förklara:
@@ -110,6 +125,7 @@ Vilka mekanismer får olycksbrödraskapet att rösta bort sin sjukförsäkring f
 som dessutom inte ger något annat än retorik i utbyte mot en lagd röstsedel?
 Alla demokratiska ledare är valda av folket,
 varje tyrann är köpt på sitt eget vis.
+.LP
 .section
 .LP
 Det finns alldeles för många sådana paradoxer för att jag skall kunna diskutera ens en bråkdel av dem här.
@@ -133,19 +149,71 @@ trots att studier i många länder visar att folks förtroende för forskare och
 .[
 Pearson 2026
 .]
-Det visar sig att förtroendet inte sjunker likformigt i hela populationer utan ofta bara i delar av dem.
-Ett exempel är att förtroendet för medicinska och naturvetenskapliga forskare i USA sjunker,
-i synnerhet bland konservativa och republikanska väljare.
+Det visar sig att förtroendet inte sjunker likformigt i hela populationer utan bara i delar av dem.
+Till exempel: Förtroendet för medicinsk och naturvetenskaplig forskning sjunker bland konservativa och republikanska väljare i USA.
 .[
 Pearson 2026
 .]
 Jämför vår fiktive Bill ovan.
+.PP
+Ett andra mål jag har med min text är att visa vilka krafter som gör det möjligt att förstå sådana paradoxala förlopp i historien.
+.so metapolitics.ms
 .LP
-.\" so sympatier.ms
+.section
+.LP
+Den politik som leder till vad Bill, Anna och Fatima råkar ut för brukar kallas
+.I populism .
+Detta är en ledtråd till hur paradoxala.
+.QP
+.vs 12
+.ps 10
+Man kan säga att i populism handlar det om att återupprätta \[rq]det goda folket\[rq] och återge det dess rättmätiga plats,
+vilket betyder att möjliggöra att folkets hittills nedtystade vilja kommer fram  och implementeras.
+Det kan sägas röra ett slags uppror mot en minoritet som styr på ett sätt som går emot folkets intressen.
+.[ (
+Patrik Fridlund 2025
+.], s. 131)
+.PP
+Det innebär att vi betraktar populismen som en ideologi, en egen idé.
+Alternativet är att bektrakta populismen som en metod.
+Läs Fridlunds citat igen, med andra glasögon.
+Låt det blir ett mer abstrakt perspektiv.
+Vi ser nu hur man kan se politiken som något som bedrivs av en elit som går \[rq]emot folkets intressen\[rq].
+Mer abstrakt är detta en politisk utsaga
+.I om
+politiken.
+Politiska utsagor om politik beskriver vi som
+.I metapolitiska
+utsagor.
+.PP
+Studiet av matapolitik går tillbaka till sent 1700-tal,
+och termen förekommer i både tyskan och engelskan sedan den tiden.
+Begreppet finns inte belagt i svenska språket förrän de senaste decennierna.
+I \f[I]Oxford English Dictionary\f[P]s korpus är det belagt sedan 1784.
+.QP
+.vs 12
+.ps 10
+Abstract political science; the investigation of the theoretical basis of political ideas or beliefs;
+.br
+\f[I](disparaging)\f[P] impractical political theorizing.
+.[
+OED metapolitics
+.]
+.PP
+OED visar två aspekter av begreppet.
+(i) Studiet av den teoretiska grunden för idéer och trosföreställningar.
+(ii) Ett nedlåtande omdöme om politiskt teoretiserande.
+Användningen av begreppet har ökat sakta men exponentiellt sedan det introducerades.
+Se Figur 2.
+Jag har använt figuren för att ge en kronologi för såväl internationella som svenska relaterade händelser.
+Jag återvänder till dem nedan.
+.LP
 .section
 .LP
 Antonio Gramsci (1891 \[en] 1937) brukar beskrivas som marxist, historiker, lingvist, filosof och journalist.
-Han växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning på grund av försörjningsproblem.
+Han är också den som utan att själv använda ordet metapolitik är en av dem som tidigt utvecklade sofistikerad metapolitisk teori.
+.PP
+Gramsci växte upp i torftiga förhållanden och tvingades lämna universitetet i Turin med en ofärdig utbildning på grund av försörjningsproblem.
 1924 \[en] 1926 var han ledare för det italienska kommunistpartiet.
 Från 1926 till sin död 1937 hölls han fängslad av Mussolinis fascistiska regim.
 .[
@@ -269,7 +337,10 @@ som är kopplade till sina egna intellektuella.
 Tidigt på 1900-talet växte det fram frikyrkor som hade pastorer,
 fackliga organisationer som utsåg ombudsmän.
 Varje subkultur som växer fram har sina förståsigpåare.
-I Gramscis terminologi kallas dessa för organiska intellektuella. 
+.PP
+I Gramscis terminologi kallas dessa för organiska intellektuella.
+De är knutna till ett framväxande civilsamhälle.
+.sp
 .TS
 center tab(;);
 l l l .
@@ -312,7 +383,6 @@ Inspirerad av Perry
 anderson antinomies gramsci
 .] 
 vill jag sammanfatta detta så här
-.bp
 .LP
 .TS
 center tab(;);
@@ -383,14 +453,7 @@ medan Napoleon III och Bismarck är regressiva.
 En kollektiv intellektuell
 .], s. 256)
 Jag antar att den i vilket fall kan vara mer eller mindre fascistisk.
-.section
-.LP
-Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
-Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
-.[
-alfredson danielsson 1976
-.]
-.ID
+.ID \n[MID]u
 .vs 12
 .ps 10
 Svara, du med röda stjärnan på din vårkavaj:
@@ -398,11 +461,21 @@ alla tåg som går mot lyckans land på första maj
 \[em] svara på en fråga från en vän som tappat tron:
 när är dom framme vid sin slutstation?\**
 .DE
-Den svenska versionen skrevs för att hantera AB Svenska Ords besvikelse över Socialdemokratin.
-Socialdemokraterna förlorade valet 1976, efter att ha regerat sedan 1946.
+.LP
+.section
+.LP
+Ett halvsekel efter att Gramski arrestades spelade AB Svenska Ord revyn \f[I]Svea Hund\f[P] på Göta Lejon i Stockholm.
+Monica Zetterlund sjöng då \f[I]Var blev ni av, ljuva drömmar\f[P]?
+.[
+alfredson danielsson 1976
+.]
+Jag citerar den svenska versionen av sången här och var i denna kria.
+AB Svenska Ord skrev den för att hantera besvikelse över Socialdemokratin.
+Socialdemokraterna förlorade valet 1976, efter att ha regerat sedan 1932 (1946 om man inte räknar in krigsårens samlingsregeringar).
 .[
 regeringsbildningar 2023
 .]
+.PP
 I Storbritannien skulle Margaret Thatcher bli premiärminister tre år senare,
 och behålla makten ett drygt decennium till 1990.
 Stuart Hall skrev sin med rätta berömda \[rq]The great moving right show\[rq].
@@ -428,7 +501,7 @@ Andy Knott 2020
 .] 
 kände sig föranledd att skriva \[rq]The new moving right show\[rq].
 .PP
-Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt som rimmar på Gramscis egen.
+Hall och Knott behandlar frågan om högersvängarna på aningen olika sätt, men som båda som rimmar på Gramscis egen.
 .PP
 Särskilt intressant är Halls diskussion av Labour och Socialdemokratin.
 En förutsättning i resonemanget är att när Labour (Socialdemokratin) har regeringsmakten måste arbetarklassen förskjuta sina sympatier
@@ -454,27 +527,85 @@ stuart hall 1979
 .]
 för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
-.so metapolitics.ms
+.so gramsci-interest.ms
 .LP
 .section
 .LP
-.ID 9.0c
+.ID \n[MID]u
 .vs 12
 .ps 10
 Var blev ni av, ljuva drömmar om en rimligare jord,
 ett nytt sätt att leva? Var det bara tomma ord?
 Var är dom nu, dom som påstod att dom hade alla svar
-men svek alla oss och valde makten? Dom är kvar.
-.br
-.[
+men svek alla oss och valde makten? Dom är kvar.\**
+.FS
+\
+.[ 
+#
 Danielsson Alfredson 1976
 .]
+.FE
 .DE
 .LP
-Gramsci och hans följare har arbetade med strukturen i överbyggnaden.
-Hur klassamhället samspelar med andra sociala grupperingar och kapitalismen.
-Vi fick en begreppsapparat för ändamålet;
-många har noterat detta faktum.
+Gramsci och hans följare arbetade med strukturen i överbyggnaden.
+Han studerade hur klasser samspelar med andra sociala grupperingar och kapitalismen,
+och han gav oss både metoder och en begreppsapparat för ändamålet.
+Många noterade detta.
+Det tog ett bra tag innan fängelsedagböckerna nådde offentligheten.
+1949 \[en] \1950 var Gramsci död,
+kriget slut och hans vän Palmiro Togliatti kunde trycka ett mindre urval.
+.[
+Chesta 2017
+.]
+Sedan kom ett större urval på svenska 1967
+.[
+Gramsci 1967
+.]
+och ett riktigt stort på engelska 1971.
+.[
+Gramsci 1971
+.]
+Kort sagt, metapolitikens metoder spred sig som ringar på vattnet (se Figur 2).
+Alain de Benoist var en av alla som under 1960 \[en] 1970-talen studerade de nya metoderna.
+Han blev 1968 en av grundarna av GRECE (Groupement de Recherche et d’Études pour la Civilisation Européenne  \[em] Research and Study Group for European Civilization.
+Framför allt var han en av de första som formulerade en \[rq]höger-gramscianism\[rq].
+.[
+Rueda de Benoist 2021
+.]
+Det är tveksamt i vilken utsträckning den moderna högern egentligen studerat Gramsci eller de Benoist.
+Deras strategiska överväganden och taktiker syftar till hegemoni i Gramskis mening.
+Andrew Breitbarts doktrin är ett uttryck för detta
+.QP
+.vs 12
+.ps 10
+Right-wing metapolitics in the internet age is encapsulated in the Breitbart Doctrine,
+which holds that ‘politics is downstream from culture’ and seeks to change narratives and opinions by stoking outrage with sensationalist reporting.
+The doctrine’s author,
+the rabble-rouser Andrew Breitbart,
+creator of an eponymous website that taught the US right how to wage culture war online,
+believed new media offered new means to weaken old media, and with it the left’s hegemonic grip.
+.[
+Eliah Bures 2023
+.]
+.LP
+.section
+.LP
+1976 förlorar Socialdemokraterna valet efter 44 år vid regeringsmakten.
+Folkhemstanken had uppnåt hegemoni,
+eller som Anders Frenander uttrycker saken:
+.QP
+.vs 12
+.ps 10
+Folkhemmets uppbyggnad följde en bestämd tågordning.
+Först kom den ideologiska kompromissen mellan arbete och kapital som infogades i en socialdemokratisk hegemoni.
+Därefter följde den politiska överenskommelsen mellan bondeförbundet och socialdemokraterna,
+mellan 1936 och 1939 till och med i form av koalitionsregering.
+Slutligen fick den svenska modellen sin ekonomiska utformning i Saltsjöabadsavtalet.
+Sålunda hade upprättats ett \[rq]historiskt block\[rq] i Gramscis mening.
+.[
+frenander 1999
+.]
+
 .PP
 Lars Gustafsson myntade uttrycken mediavänstern och problemformuleringsprivilegiet
 .[
@@ -489,7 +620,16 @@ Blabla blabla blabla blabla blabla.
 .[
 daniel rueda 2021
 .]
+.LP
 .section
+.ID \n[MID]u
+.vs 12
+.ps 10
+Vi som satts att leva i besvikelsens epok
+\[em] ja, vad gör vi nu? Vad ska vi tala på för språk?
+Ett sätt är att, även om det blåser lite kallt,
+tro på det vi trodde på \[em] trots allt!
+.DE
 .LP
 Blabla blabla blabla blabla blabla.
 Blabla blabla blabla blabla blabla.
@@ -498,12 +638,4 @@ Eller som Hasse och Tage
 .[
 Danielsson Alfredson 1976
 .]
-skaldade:
-.ID
-.vs 12
-.ps 10
-Vi som satts att leva i besvikelsens epok
-\[em] ja, vad gör vi nu? Vad ska vi tala på för språk?
-Ett sätt är att, även om det blåser lite kallt,
-tro på det vi trodde på \[em] trots allt!
-.DE
+

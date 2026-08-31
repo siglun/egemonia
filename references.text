@@ -1944,6 +1944,12 @@ Interpretation
 %D 2026
 %O https://doi.org/10.1093/OED/3247435121
 
+%A Google\ Trends
+%T Antonio Gramsci: intresse i USA \[:o]ver tid
+%D 2026-08-30
+%O https://bit.ly/4iCQTUQ
+%Z  https://trends.google.com/explore?q=antonio%2520gramsci&date=2015-01-01%202025-12-31&geo=US
+
 %A Karl Ekeman
 %T On Gramscianism of the Right
 %O https://blogs.law.columbia.edu/praxis1313/karl-ekeman-on-gramscianism-of-the-right/?cn-reloaded=1
@@ -1970,3 +1976,46 @@ Interpretation
 %T Vår historia
 %D 2026/hämtad
 %O https://timbro.se/om-oss/var-historia/
+
+%A Fridlund, Patrik
+%T Populism som id\['e]
+%D 2025
+%J Statsvetenskaplig tidskrift
+%V 127
+%N 1
+%P 127 \[en] 148
+%O https://journals.lub.lu.se/st/article/view/27914
+
+%A Chesta, Riccardo Emilio
+%T Gramsci, A Stranger in his Own Land
+%D 2017
+%B Global Dialogue
+%O https://bit.ly/4bVuq1b
+%Z https://globaldialogue.isa-sociology.org/articles/gramsci-a-stranger-in-his-own-land
+
+%J Fascism
+%N 12
+%D 2023
+%P 1 \[en] 26
+%T The Intellectual as Culture Warrior: Metapolitics and the European New Right
+%A Bures, Eliah
+%O https://doi.org/10.1163/22116257-bja10055
+
+%A Frenander, Anders
+%T Debattens v\[oa]gor: Om politisk-ideologiska fr\[oa]gor i efterkrigstidens svenslka kulturdebatt.
+%S Arachne
+%N 13
+%D 1999
+
+%A Choi, Hyunyoung
+%A Varian, Hal
+%T Predicting the Present with Google Trends
+%D 2012
+%J Economic Record
+%P 2\[en]9
+%V 88
+%N s1
+%@ 0013-0249
+%O https://doi.org/10.1111/j.1475-4932.2012.00809.x
+%U https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-4932.2012.00809.x
+%X In this paper we show how to use search engine data to forecast near-term values of economic indicators. Examples include automobile sales, unemployment claims, travel destination planning and consumer confidence.
