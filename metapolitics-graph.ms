@@ -6,7 +6,7 @@ frame invis ht 8 wid 9 left solid color "black" bot solid color "black"
 label bot "\[oA]r" down 1
 label left "Relativ frekvens" left 1.2
 draw meta solid color "black"
-copy "metapolitics.text" thru { next meta at $1,$2 }
+copy "metapolitics-graph.text" thru { next meta at $1,$2 }
 #
 # --- COMPARISON SERIES (dormant) -------------------------------------
 # To contrast "metapolitics" with a second word (e.g. a sibling coinage
@@ -19,7 +19,7 @@ copy "metapolitics.text" thru { next meta at $1,$2 }
 #   2. Raise ymax above to fit the taller series.
 #   3. Uncomment:
 draw comp dashed color "black"
-copy "geopolitics.text" thru { next comp at $1,$2 }
+copy "geopolitics-graph.text" thru { next comp at $1,$2 }
 
 # draw quotient solid color "red"
 # copy "both-politics.text" thru {

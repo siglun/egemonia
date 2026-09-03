@@ -25,6 +25,7 @@ The Democrats don't matter...
 The real opposition is the media.
 And the way to deal with them
 is to flood the zone with shit.
+
 ..
 .FS
 En allusion till uttrycket \f[I]Flood the zone\f[P].
@@ -143,7 +144,7 @@ tror att vi behöver göra något åt klimatet.
 .FS
 För att vara övertydlig: $100 - 82 = 18$.
 .FE
-.so metapolitics.ms
+.so metapolitics-graph.ms
 .PP
 En likartad observation är att det i politik och media ofta påpekas att förtroendet för experter och forskare sjunker,
 trots att studier i många länder visar att folks förtroende för forskare och vetenskap är högt.

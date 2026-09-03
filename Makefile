@@ -2,7 +2,7 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps .chem .svg
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf .chem.ms .svg.eps
 
-default: essay.pdf
+default: metapolitics-essay.pdf
 
 # Capture the last commit date, or current date if changes are uncommitted
 BUILD_DATE := $(shell date "+%Y-%m-%d %H:%M")
@@ -40,9 +40,11 @@ qr.eps:
 clean:
 	rm -f *~ *.eps
 
-essay.pdf: essay.ms sympatier.ms sympatier-data.text sympatier-graph.ms \
-	gramsci-interest.ms metapolitics.ms metapolitics.text \
-	geopolitics.text $(OTHERS)
+metapolitics-essay.pdf: metapolitics-essay.ms sympatier.ms \
+	sympatier-data.text sympatier-graph.ms \
+	gramsci-interest.ms \
+	metapolitics-graph.ms metapolitics-graph.text \
+	geopolitics-graph.text $(OTHERS)
 
 # Remember
 #
