@@ -13,7 +13,7 @@ GIT_COMMIT := $(shell git rev-parse --short HEAD 2>/dev/null || echo "unknown")
 
 URI = https://github.com/siglun/egemonia/essay.pdf
 PAPER = -dpaper=a4 -P-pa4
-OTHERS =  ./references.text ./tmac/dropcap.tmac \
+OTHERS =  ./bib/references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic  eqn-definitions.ms \
 	parameters.ms back-matter.ms
 
