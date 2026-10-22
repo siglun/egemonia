@@ -8,9 +8,6 @@ default: metapolitics-essay.pdf
 BUILD_DATE := $(shell date "+%Y-%m-%d %H:%M")
 GIT_COMMIT := $(shell git rev-parse --short HEAD 2>/dev/null || echo "unknown")
 
-
-#	cd too-much-modality && $(MAKE)
-
 URI = https://github.com/siglun/egemonia/essay.pdf
 PAPER = -dpaper=a4 -P-pa4
 OTHERS =  ./bib/references.text ./tmac/dropcap.tmac \

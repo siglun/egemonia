@@ -187,7 +187,7 @@ Politiska utsagor om politik beskriver vi som
 .I metapolitiska
 utsagor.
 .PP
-Studiet av matapolitik går tillbaka till sent 1700-tal,
+Studiet av metapolitik går tillbaka till sent 1700-tal,
 och termen förekommer i både tyskan och engelskan sedan den tiden.
 Begreppet finns inte belagt i svenska språket förrän de senaste decennierna.
 I \f[I]Oxford English Dictionary\f[P]s korpus är det belagt sedan 1784.
@@ -460,6 +460,7 @@ medan Napoleon III och Bismarck är regressiva.
 En kollektiv intellektuell
 .], s. 256)
 Jag antar att den i vilket fall kan vara mer eller mindre fascistisk.
+.bp
 .ID \n[MID]u
 .vs 12
 .ps 10
@@ -534,6 +535,7 @@ stuart hall 1979
 .]
 för detaljer.
 Thatcherismen lyckades dessutom med att bryta ner kollektivismen som är en förutsättning för solidaritet och fackföreningsrörelse.
+.bp
 .LP
 .section
 .LP
@@ -639,9 +641,9 @@ tro på det vi trodde på \[em] trots allt!
 .LP
 Blabla blabla blabla blabla blabla.
 Blabla blabla blabla blabla blabla.
-.PP
+.ig
 Eller som Hasse och Tage
 .[
 Danielsson Alfredson 1976
 .]
-
+..
